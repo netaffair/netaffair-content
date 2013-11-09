@@ -601,7 +601,7 @@ The network was also used for administrative matters. For communicating about lo
 
 .SMS
 ----
-Short Messaging Service 
+Short Message Service 
 
 First, this was understood as a way of informing post and telephone technicians. Later, the idea popped up to inform users that they had a message in their voice mailbox. It was Neil Papworth, a 22-year-old test engineer in the UK, who worked out that SMS could be used for sending short messages for free. However, soon new business plans appeared on PTT drawing boards, some of them even charging their clients a fee per character. Today the game has started all over again as web SMS services are free.
 

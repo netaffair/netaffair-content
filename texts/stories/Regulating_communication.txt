@@ -33,7 +33,7 @@ person:[Tony Rutkowski] calls the convention “the first multilateral agreement
 audio::rutkowski-itu-history[]
 
 [glossary-ref]
-*glossary:SMS[]*: Short Messaging Service
+*glossary:SMS[]*: Short Message Service
 
 [aside-right]
 ----
