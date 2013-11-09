@@ -1,0 +1,29 @@
+Charles Herzfeld
+================
+:kind: transcript
+
+sequence-nav::herzfeld-arpa-material-science[]
+
+audio::herzfeld-arpa-material-science[]
+
+== Transcript: SP
+
+“There were a lot of things that we were told to do: ballistic missile defence was one, the detection of nuclear explosions was another, the Vietnam thing was another, and there were some basic research things we were told to do.
+
+One was something very interesting, which has not gotten adequate publicity, but [which] we called the Interdisciplinary Centres for Materials Research. And they had to combine physics, chemistry, metallurgy, mathematics, electrical engineering into integrated programmes. And there were 12 of these, and very big programmes. In those days 10 to 20 million per year, per university. It is real money. And it lasted for 20 years or so, and I think without it the electronics revolution could not have happened as fast, as rapidly. You see what I am saying?
+
+
+Because we trained a completely new class of student, and by the thousands. There were people who were not specialists in only metallurgy or only physics or only mathematics, but they came to understand all of these connected fields. And they picked their own niche, of course, that was fine, but in this very broad spectrum and using all these various tools which they had not been using before. So that changed metallurgy, for example, that advanced metallurgy very much and that advanced the materials for electronics. How to make very pure silicon, for example; very, very difficult. Nobody knew how to do it until all these advanced techniques were developed. And now it is a routine matter to get silicon that has maybe, I don’t know, a few parts per billion of impurity. That is an absolutely fantastic achievement. Then – now it is routine and you can go and buy 10 kilograms if you like, and it will be expensive, but you know exactly where to go and buy it.
+
+It is the longest – in fact it went on for 20 years as I said – it is the longest basic research that DARPA did. And I think the most important in many ways – as far as the basic sciences in engineering are concerned. It was hugely important.”
+
+== Transcript: LP
+“The so-called ‘Interdisciplinary Centres for Materials Science’. It was an idea that was started by Eisenhower, and one of the early projects for ARPA.
+
+It is an interesting story there: why would Eisenhower care? He was the president and he had many other problems on his mind. Well, I think I figured out what the connection is: Killian, James Killian, was president at MIT and a very good scientist. He was friends with Eisenhower. How did that happen? I do not know, but I think they – Eisenhower was president of Columbia University for about a year, a year and a half, before he went into politics. After he went out of the army he became president of Columbia. Now, university presidencies: in America [there is] an organisation of university presidencies. And Killian was president of MIT. Many things happened because of this. Maybe all of ARPA. I am doing the research.
+
+Killian persuaded Eisenhower first of all to do ARPA, and then to do a number of… actually [he] established it. That is recorded. That is well-known. And I think he did also put in a materials science programme.
+
+The problem to solve was this: it was clear that materials science, the science of metals, of plastics, of electronics, was going to be very important. It was clear that the way it was being done in all universities all over the world was in a very old-fashioned way. Totally dominated by old scientific disciplines: metallurgy, crystallography and so on. All treated separately. They would not talk to each other. They were in separate departments… happy, okay. Killian was one of the people who really understood that this had to change and wanted to change that. He got the Presidential Science Advisory Committee to study the matter and out went a directive, approved by the Bureau of the budget and negotiated with the Congress beforehand. To have a large programme, it was a lot of money, it was about $25 million a year in ARPA. That was real money then – you have to multiply it by 8 or 10 into today’s dollars – to have a programme to change that 
+
+Now how would he do that? They decided they would have about – in the end it turned out to be 14 different universities, and they were selected by competition. A very rigorous bidding in competition process. And they had to promise that they would form new departments of material science that involved members of the mathematics department, the physics department and the metallurgy department, various engineering departments to form a new faculty. If they would do this and pass the exam, they would get a good new building, full of equipment, and enough money to pay for five years’ salaries. And that would be pushed forward every year by another year. So long-term funding. And ARPA got 12 and the AEC, the Atomic Energy Commission, got two. They changed the world. I do not think the electronics revolution of the seventies, eighties and still continuing could have happened, except for that event: there were 14 universities, maybe 100 professors, 10,000 graduate students, 1000 post-docs – every year. I think that changed the world!”

@@ -1,0 +1,114 @@
+European Networking Paradigms
+=============================
+:author: Mariann Unterluggauer
+:kind: front
+
+In Europe, experimentally driven research for defining the Internet’s architecture began nearly 50 years ago. Yet few people realise that the original voices from these early days of inter-networking are still around. NetAffair wants to ensure that their personal knowledge, experiences and the insights of European research efforts do not just evaporate, but are heard, discussed and used to construct new principles. Especially, as the scientific and political contest unfolds today between different regions of the world, it bears clear resemblances to a not-so-distant European past.
+
+["column", role="left"]
+====
+
+["teaser", header="Sputnik in the air", track="Policy", href="stories/How_it_all_began.html", trackhref="stories/How_it_all_began.html"]
+----
+figure::images/sputnik-left.front-left-wide.jpg[href="stories/How_it_all_began.html", title="Source: NASA"]
+
+For the USA the story of the Internet starts mainly with the Soviet satellite Sputnik 1, and how politicians and scientists on the other side of the Atlantic made the best out of a frustrating situation: by investing in science and research. 
+
+In Europe, the situation was different. Faced with the wreckage of two world wars, reconstruction work was essential. For once, people and politicians together felt the need for peace. Investments in infrastructure were needed as well as in high-tech technology. Are you getting a sense of déjà vu yet? continue:stories/How_it_all_began.html[]
+----
+
+["teaser", header="Any European computers out there?", track="Industry", href="stories/European_cooperation.html", trackhref="stories/European_cooperation.html"]
+----
+figure::images/mailuefterl.front-left-wide.jpg[href="stories/European_cooperation.html", title=" Mailüfterl, 1961. Source: H. Zemanek, OCG"]
+
+The interests of industrial players, nations and European policy have not always coincided when the subject was building a European computer market, technical and management capabilities or technological innovation. Even today the European industry seems to be driven by one notion: it's easier to team up with and sell an idea to a US partner than to a European one. But why blame the industry alone? Politicians will never call a visit to their EU colleagues a “fact-finding mission”, but they still do so when travelling to Silicon Valley.
+
+However, these early discussions on uniting science and research efforts and European computer industries laid the path for an experimental pan-European Informatics Network. continue:stories/European_cooperation.html[]
+----
+
+["teaser", header="Also cool", track="Discover"]
+----
+figure::images/1960-portable-scooter.front-left-wide.jpg[title="Source: Hobby, 1960"]
+
+A portable scooter, 1960.
+----
+
+====
+
+["column", role="center"]
+====
+
+
+["teaser", header="Discover", track="Material"]
+----
+figure::images/1961tonbandgeraet-hobby.front-left-narrow.jpg[role="front-left-narrow", title="Source: Hobby, 1961"]
+
+Internet history fast-forward, an audio play. Listen to the original voices, to the people who have been involved in the development of computer networking since the 1960s. Enjoy! continue:material/audio/fast-forward-audioplay.html[]
+----
+
+["teaser", header="Networking Science – European Style", track="Science", href="stories/Technology_is_always_also_politics.html", trackhref="stories/Technology_is_always_also_politics.html"]
+----
+figure::images/ein-brochure-07.front-left-wide.jpg[role="front-left-wide", href="stories/Technology_is_always_also_politics.html", title="Source: EIN brochure, 1978"]
+
+The discussion on an experimentally driven pan-European research network began in the late 1960s. It was one result of the “technology gap” discussion that emerged in Europe at that time, bringing America’s leading role for utilising technology into the limelight.
+
+However, scientists worldwide were not impressed. They met and exchanged thoughts at their international conferences and read each other’s papers. Some might have become friends. Some didn’t. Some ideas might have been forgotten, others were re-considered. Time will tell.
+
+What we can already say is that in the 1960s and 70s most computer scientists had never considered finding their purpose in life by designing databases or sending data packets electronically. continue:stories/Technology_is_always_also_politics.html[]
+----
+
+["teaser", header="ISO is not a drink", track="Standards", href="stories/Regulating_communication.html", trackhref="stories/Regulating_communication.html"]
+----
+figure::images/iso-can.front-left-narrow.jpg[role="front-left-narrow", title="Source: sensomatic"]
+
+One of the places where industry and standardisation bodies meet and try to re-phrase current and not-so-current developments into a world standard is Geneva. Namely ISO, the International Organisation for Standardisation. 
+
+It is also to Geneva where the international body of the telecommunications companies prefers to travel. In Europe it once answered to the name “Postal, Telegraph and Telephone service” (PTT). Yet in 1850, their representatives travelled to Vienna, Austria, to sign the first multilateral agreement on electrical communication via landlines, also introducing data retention. "Article 14: the original telegram must be conserved for two years". continue:stories/Regulating_communication.html[]
+
+////
+["teaser", header="ISO is not a drink", track="Coming up in: Standardisation", role="coming-soon"]
+////
+
+----
+
+====
+
+["column", role="right"]
+====
+
+["teaser", header="What else?", track="Science", href="stories/Gaps_in_technology.html", trackhref="stories/Gaps_in_technology.html"]
+----
+In the 1960s few cared about the development of packet switching or computer networks.
+
+figure::images/eu-map-sw.front-right-wide.jpg[href="stories/Gaps_in_technology.html", role="front-right-wide"]
+
+Instead, bureaucrats and economic analysts compared the extent of telephone distribution with the numbers of cars sold, and explained the gaps in technology by counting the numbers of TVs in US and European households. continue:stories/Gaps_in_technology.html[]
+----
+
+
+
+["teaser", header="Glossary", track="Glossary", href="glossary/index.html", trackhref="glossary/index.html"]
+----
+link:glossary/index.html#Catenet[Catenet]: Did you know that the Internet was once called Catenet? At least up until 1983, and yes, the name is a European invention. Many people didn’t know how to pronounce it though.
+----
+
+["teaser", header="People", track="People", href="people/index.html", trackhref="people/index.html"]
+----
+figure::images/1976-pouzin-conf.front-right-narrow.jpg[role="front-right-narrow", href="people/index.html", title="Louis Pouzin"]
+
+Do you know that man? In the end it is all about people and ideas, not about haircuts. continue:people/Charles_Herzfeld.html[]
+----
+
+["teaser", header="Lots of data", track="Material", href="material/index.html", trackhref="material/index.html"]
+----
+figure::images/telephone-booking.front-right-wide.jpg[href="material/index.html", role="front-right-wide", title="Hotel booking, Source: Hobby, 1961"]
+
+Audio interviews and data from the archive, sometimes video but for sure images. Our aim is to educate future generations of networkers. Therefore load it, clone it and play with it in order to get inside the original ideas and past and present problems in computer networking. continue:material/index.html[]
+----
+
+["teaser", header="Discuss"]
+----
+Do you know better? As we like to say: there are lots of ways of telling the story. So we like to set pointers towards evolving networking stories. Let us know what we are missing at http://twitter.com/netaffair[@NetAffair]!
+----
+
+====

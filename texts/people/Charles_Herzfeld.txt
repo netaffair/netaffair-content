@@ -1,0 +1,76 @@
+Charles Herzfeld (born 1925)
+============================
+:author: Mariann Unterluggauer
+:kind: biography
+:track: people
+
+[person-role]
+Scientist, Science Manager, Industry
+
+person-occurrences::Charles_Herzfeld[]
+
+== “People are as important as ideas.” (Herzfeld 2005)
+
+[aside-right]
+----
+figure::images/charles-herzfeld.biography-aside-right.jpg[caption="Charles Herzfeld giving a talk in Thailand (<a href=\"http://www.internethalloffame.org/inductees/charles-herzfeld\">Internet Hall of Fame</a>)"]
+----
+
+Charles Herzfeld left Vienna in 1938 when the Nazis marched into Austria. 
+After his father died in a Budapest hospital from an epidemic in the winter 1940, Charles Herzfeld also escaped from Budapest to the United States, along with his mother and dog, Betyar. 
+
+During World War II, the decision to travel to the USA meant an odyssey of well over a year. They had to cross Europe from east to south. They needed new passports as Austria no longer existed; an Austrian passport simply had no value any more. After finally reaching Casablanca, they took a boat across to the USA. It was already October 1942 by the time the Herzfelds reached Baltimore, or more precisely the house of uncle Karl Herzfeld, a well-known theoretical physicist who had left Europe, along with his wife Regina, in 1926. Charles Herzfeld cut his last official link to Austria in 1949 when he became a citizen of the United States of America.
+
+audio::herzfeld-1938[]
+
+[aside-left]
+----
+figure::images/arpa-logo.story-aside-left.jpg[caption="<strong><a href=\"glossary/index.html#ARPA\">ARPA</a></strong>, the Advanced Research Projects Agency, founded 1958 in the US. In 23 March 1972 ARPA was formally renamed DARPA, Defence Advanced Research Projects Angency. It took a while for the new acronym to catch on.", captionrole="glossary-ref", href="glossary/index.html#ARPA"]
+----
+
+Herzfeld holds an engineering degree from the Catholic University of America (1945) and a PhD from the University of Chicago (1951). He worked as a physicist at the Ballistic Research Laboratory, Aberdeen, Maryland from 1951 to 1953, and at the Naval Research Laboratory in Washington. After several years with the National Bureau of Standards, he became Assistant Director of the Advanced Research Projects Agency of the US Department of Defence.
+
+Charles Herzfeld’s father was an Austrian monarchist who fought in World War I. “He brought me up in that tradition a little bit”, Herzfeld told us in an interview. One can assume that this background helped him to handle his job at glossary:ARPA[] and to understand the mind-set of four star generals at the Pentagon better. 
+
+figure::images/herzfeld-arpa.biography-inline-wide.png[caption="Charles Herzfeld (the third from the right) at an ARPA meeting. (Source: DARPA, 50 Years of Bridging the Gap, 2008)", role="story-inline"]
+
+[person-ref]
+*Robert (Bob) Lamb Sproull*, ARPA director, 1963 - 1965 
+
+He worked on the ballistic missile defences programme. As a physicist he was also very much interested in the creation of interdisciplinary centres for material sciences at universities though this was an area for which his boss person:[Bob Sproull] was responsible until Charles Herzfeld succeeded him and was promoted to become the director of ARPA  in 1965.
+
+audio::herzfeld-arpa-material-science[]
+
+[person-ref]
+*Robert Taylor*, US computer scientist (1932-). +
+He was director of the Information Processing Techniques Office at ARPA, from 1965 − 1969, and  became later founder of the  Xerox PARC Computer Systems Laboratory. 
+
+[person-ref]
+*Joseph Carl Robnett Licklider*, was also called JCR and Lick by his friends (1915-1990). +
+In the early 1960s he formulated the idea that computers could operate together in an integrated network. (http://apotheca.hpl.hp.com/ftp/pub/dec/SRC/research-reports/abstracts/src-rr-061.html[In Memoriam: J.C.R. Licklider])
+
+In the context of “internetting” – as computer networking was then called – he earned credits for signing the first check for an Arpanet study in 1967. This laid the foundation for person:[Robert Taylor] to fulfil person-mention:[J.C.R. Licklider]’s^P^ dream of working on an “intergalactic computer network”. Yet, at the time several important steps still lay ahead.
+
+Legend has it that Robert Taylor took just 20 minutes to gain a signature for $1 million in funding. Well, not quite so, Herzfeld recalls.
+
+audio::herzfeld-arpa-check[]
+
+ 
+In 1967, Herzfeld quit his job at ARPA, simply because he “couldn’t afford it any longer”: 
+
+[glossary-ref]
+*glossary:ITT[]*: International Telephone and Telegraph Corporation. Founded in 1920 with the intention to create an international telephone system, and became a large conglomerate.
+
+
+[quote]
+“When you are director of ARPA you have to do some entertaining for official business and you get absolutely none of that back. I had three sons who had to go to college soon and I had to make some money.” 
+
+However, in the 1960s, none of the ARPA directors stayed longer than two years. After ARPA, Herzfeld was hired as technical director by glossary:ITT[], also because they needed a contact with government and ARPA. 
+
+
+audio::herzfeld-leaving-arpa[]
+
+In 1990, XLI US President George Bush nominated Charles Herzfeld to be Director of Defense Research and Engineering at the Department of Defense. (Source: http://www.presidency.ucsb.edu/ws/?pid=18069[The American Presidency Project])  
+
+
+

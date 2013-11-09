@@ -1,0 +1,59 @@
+# [documents.]
+# title = ""
+# description = ""
+# link = ""
+# file-type = ""
+# file-size = ""
+# cover = ""
+# sort = ""
+
+[documents.1850-dresden]
+title = "Reichs-Gesetz und Regierungsblatt"
+description = "Interstate agreement between the Austro-Hungarian Monarchy, Prussia, Bavaria and Saxony, 25 July 1850."
+sort = "1850"
+
+[documents.1957-rome-treaty]
+title = "Treaty of Rome"
+description = "25 March 1957, the foundation of the EEC"
+cover = "images/treaty-rome-titelpage.material-cover.jpg"
+
+[documents.1961-blachman-the-state-of-digital-technology-in-europe]
+title = "The State of Digital Technology in Europe"
+description = "Nelson M. Blachman, <a href=\"http://cacm.acm.org/\">Communication of the ACM</a>, 1961"
+cover = "images/1961-blachman-map.material-cover.jpg"
+
+[documents.1967-ceab-forschung]
+title = "CEAB 2"
+description = "CEAB 11.932/1/II/67-D, Historical Archive of the European Commission"
+cover = "images/1967cover-ceab.material-cover.jpg"
+
+[documents.1995-kelly-campbell-icl-and-the-uk-mainframe]
+title = "ICL and the Evolution of the British Mainframe"
+description = "Martin Campbell-Kelly, The Computer Journal, Vol 38, No 5, 1995, Oxford University Press"
+cover = "images/ICT-1301-campbell.material-cover.jpg"
+
+[documents.1968-oecd-report-gaps-in-technology]
+title = "OECD General Report, Gaps In Technology"
+description = "Comparisons between member countries. Publication 24.685-68, Paris 1968"
+cover = "images/gaps-general-report.material-cover.jpg"
+
+[documents.1995-a-brief-history-of-european-research]
+title = "A Brief History of European Union Research Policy"
+description = "Lucca Guzzetti, European Commission, Studies 5, October 1995, <a href=\"http://bookshop.europa.eu/en/a-brief-history-of-european-union-research-policy.-october-1995-pbUU0095004/\">EU bookshop</a>"
+cover = "images/1995-cec-report.material-cover.jpg"
+
+[documents.2000-a-history-of-the-european-space-agency]
+title = "A History of the European Space Agency 1958 - 1987"
+description = "J. Krige and A. Russo, The story of ESRO and ELDO, 1958 -1973, Vol 1, 2000, esa"
+
+[documents.units-of-account]
+title = "The Units of Account as a Factor of Integration"
+description = "Commission of the European Communities (CEC) 87/75, in: Information, Economy and Finance, 1975"
+sort = "1975"
+
+[documents.50-years-itu]
+title = "50 years International Telecommunication Union"
+description = "In 2006, ITU-T celebrated 50 years of making standards (<a href=\"http://www.itu.int/en/history/Pages/DiscoverITUsHistory.aspx\">ITU history</a>)"
+sort = "2006"
+
+

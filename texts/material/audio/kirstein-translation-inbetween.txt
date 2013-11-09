@@ -1,0 +1,24 @@
+Peter Kirstein
+==============
+
+:kind: transcript
+
+sequence-nav::kirstein-translation-inbetween[]
+
+audio::kirstein-translation-inbetween[]
+
+== Transcript: SP
+
+“As so often happened there was one way of doing it in the US, and another way of doing it in Britain. The US way of doing it was the Domain Name System. The British way of doing it was the ‘Network Registration Scheme’. By the time I was running the service – we’re now in the early 1980s… late 1970s, early 1980s – one of the things I had to do every day was to translate the complete file between the British scheme and the American scheme to keep them up to date. Because, when they talked to the British, they had to talk in the British way, when they talked to the Americans, they had to talk in the American way, and then do the translation in between.”
+
+== Transcript: LP
+
+“There has always been nationalism in anything technical. And, when one country – one project, one country – developed the scheme, the temptation is for the people who do it next to say: the first people did it wrong, we do it properly. 
+
+In the case of the Domain Name Service – well, the British had another method – but even when they decided to have something like the Domain Name Service, they decided that the American had it wrong. So where America or the US would have computer science CS dot UCS for University College London, dot EDU for the educational research establishment – for all education – the British decided to do it the other way around:  UK for the country, dot AC for academic – the decided to use different two letters than the Americans, of course – dot UCL, dot CS, because that was the logical way to do it. 
+
+I tried to tell them please do not do that, because I would have to translate them backwards and forwards, but that is one of the things I had to do for the next seven or eight, nine years. 
+
+And that survived until Czechoslovakia joined the Internet. Because what I was doing was, I was looking at each of these addresses, guessing - not of course personally, but by a programme - guessing, what was probably the right way, and either turning them round or not. Because sometimes, I went from the real address, sometimes, somebody might have written in the message the address to user so and so, and they would actually have already reversed it. So I had to guess, and everything worked until Czechoslovakia joined. 
+
+The tragedy about Czechoslovakia joining is, the country code for Czechoslovakia is CS, computer science is CS, and by the time you had CS as the country code there was no way of guessing, and this back- and forward thing collapsed.“

@@ -1,0 +1,12 @@
+Maurice Allègre
+===============
+
+:kind: transcript
+
+sequence-nav::allegre-schreiber[]
+
+audio::allegre-schreiber[]
+
+== Transcript
+
+“He wrote this book, which was a very important book – not a good book, because many examples he had in the book were not good, but the general feeling of the book was good. This book had a big  influence  in the right way. I mean, to oblige people to think about that (the technological gap).”

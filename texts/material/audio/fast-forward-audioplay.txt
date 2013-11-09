@@ -1,0 +1,60 @@
+Audio Play
+==========
+
+:kind: transcript
+
+sequence-nav::fast-forward-audioplay[]
+
+audio::fast-forward-audioplay[]
+
+== Credits, in order of first appearance:
+
+Louis Pouzin: +
+Built the French network Cyclades (1972-1978), and developed Datagrams further (used for example for VOIP services as Skype). Today he works on internet governance and an open root project for the Savoir-Faire company (Interviews 2008, 2012)
+
+Peter Kirstein: + 
+University College London. In 1973 he set up the link to the US Arpanet in the UK. Since then he has been involved in setting up global Internet operation in the Southern Caucasus and Central Asia regions. (Interview 2003)  
+
+Leonard Kleinrock: + 
+pioneered the mathematical theory of packet networks. He transported many of those early Internet pioneers with his sweet 1963 Chevy Impala Super Sport Convertible all over Southern California. (Interview 2012) 
+
+Ben Segal: +
+CERN IT Department, retired. Was mentor of Tim Berners-Lee; today he is involved in the \LHC@Home, a crowd-sourcing project at CERN. (Interview 2009) 
+
+Maurice Allègre: + 
+From 1968 to 1974 he was in charge of French government's policy for the development of the computer industry, and the use of computers in society. He was leading the French Délégation à l’Informatique in Brussels in the 1970s. (Interview 2008) 
+
+Tomaz Kalin: +
+He was serving on the Board of Directors of Telecom Slovenia until recently, and was a member of the Management Committee of COST 11 Program (aka EIN). (Interview 2009) 
+
+Larry Landweber: +
+has been involved in the development of the international Internet. In 1979, he proposed CSNET, was senior advisor to the US National Science Foundation and helped to bring GENI alive, the US version of Future Internet endeavours. (Interview 2007) 
+
+Charles Herzfeld: +
+became ARPA/DARPA Chief 1965 – 1967. He signed the first check for the Arpanet in 1966 to support Robert Taylor to make J.C.R. Licklider's dream come true. (Interview 2006) 
+
+Bob Kahn: +
+Kahn was responsible for the system design of the Arpanet and wrote together with Vint Cerf the TCP specification in 1974. Developed later on the Handle System, a general purpose distributed information system at CNRI. (Interview 2004) 
+
+Elisabeth Feinler (Jake): +
+managed documentations for the ARPANET, and the WHOIS server. Doug Engelbart brought the trained bio-chemist to computer networking. (Interview 2012) 
+
+Vint Cerf: +
+Wrote together with Bob Kahn the first proposal for the internetworking protocol TCP. Today he works as Internet evangelist for Google. (Interview 2012) 
+
+== Acronyms
+
+CCITT: today ITU 
+
+PTT: stands for post, telegraph and telephone, former state monopoly   
+
+== Early European Networks, which are mentioned in the play 
+Arpanet: USA, 1969 −1990
+
+EIN: European Informatics Network: officially from 1971 - 1978 
+
+Cyclades: French packet switching network, 1972 – 1978 (Probably in use a little bit longer, who knows.) 
+
+NPL-Net: A Campus network, developed in 1969 under the lead of Donald Watts Davies at the National Physical Laboratory, near London. Donald W. Davies started to work on packet switching, a term he invented, in 1965. He presented his concept to the standardisation body CCITT (today ITU) in 1967, as well as to his US-colleagues. 
+
+Transpac: France Telecom network

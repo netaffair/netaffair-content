@@ -1,0 +1,17 @@
+Charles Herzfeld
+================
+:kind: transcript
+
+sequence-nav::herzfeld-arpa-no-enemies[]
+
+audio::herzfeld-arpa-no-enemies[]
+
+== Transcript
+
+“The ARPA thing was a basic research thing, which means, number one: it was cheap, compared to the others. Ours was a few million; others were hundreds of millions. And second, nobody really cared about it. So it had no enemies in the beginning, and that was very important.
+
+
+You have to have some money, and some freedom to work on what you want to do, and some permanence. You have to have a few years, more or less guaranteed. Otherwise, it is hard to get people to come with you. And ARPA has always had that possibility. Now, it did some very big things, but many were not. And some very influential things were not big programmes by world standards. The ARPANET was one of the smallest that turned out to be important.
+
+It was an incredibly efficient use of money.”
+

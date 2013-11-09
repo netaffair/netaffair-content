@@ -1,0 +1,35 @@
+people = [
+    [ "Charles Herzfeld", "people/Charles_Herzfeld.html" ],
+    [ "Peter Kirstein" ],
+    [ "Louis Pouzin" ],
+    [ "Maurice Allègre" ],
+    [ "Derek L.A. Barber" ],
+    [ "Pietro Schicker" ],
+    [ "Tomaz Kalin" ],
+    [ "Dennis Jennings" ],
+    [ "Hubert Zimmermann" ],
+]
+
+politics = [
+    [ "How it all began", "stories/How_it_all_began.html" ],
+    [ "Gaps in Technology and a Marshall Plan", "stories/Gaps_in_technology.html" ],
+    [ "In the need for technological skills" ]
+]
+
+science = [
+    [ "Technology is always also politics", "stories/Technology_is_always_also_politics.html" ],
+    [ "The birth of networking" ],
+    [ "European Informatics Network" ]
+]
+
+industry = [
+    [ "European cooperation: what is it?", "stories/European_cooperation.html" ],
+    [ "360 Dollars per bit" ],
+    [ "European industry policy: what is the incentive?" ]
+]
+
+standards = [
+    [ "Regulating communication", "stories/Regulating_communication.html" ],
+    [ "The telecoms are not amused" ],
+    [ "Projected applications and requirements" ]
+]

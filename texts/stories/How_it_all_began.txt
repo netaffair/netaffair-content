@@ -1,0 +1,87 @@
+How it all began
+================
+:author: Mariann Unterluggauer
+:track: politics
+:chapter: 1
+:kind: story
+
+
+== In the beginning was a beep
+
+[aside-right]
+----
+figure::images/sputnik-stamp.story-aside-right.jpg[caption="Launch of Sputnik, 4 October 1957, USSR."]
+----
+
+For most historians the story of the Internet began with satellite Sputnik. A metal ball, 58 cm in diameter, that sent out acoustic signals in the form of simple beeping. Yet that is just one part of the story. From a territorial perspective, this story marks the beginning of inter-networking in the US, which started with great disappointment as the initial event did not take place on their native soil but thousands of miles away. Leninsk, in Kazakhstan, was where the Sputnik satellite was launched and Yuri Alekseyevich Gagarin started his journey as first man in outer space five years later. Leninsk was renamed Baikonur in 1995, and it is from here that Russian spaceflights have been taking off ever since.
+
+figure::images/sputnik.story-inline-wide.jpg[caption="The Soviet Union entered space first with satellite Sputnik 1.", role="story-inline"]
+
+In 1957, an event like the Sputnik launch needed explaining, not least because of Cyrillic script suddenly appearing in the US media, or the severe undermining of American scientists’ self-esteem. President Eisenhower believed that it was the USA’s inherent destiny to be the first conquerors of the universe. For the USSR to steal such a march as Sputnik represented was unthinkable. After all it was the United States of America whose scientists developed the atomic bomb first, and its nuclear-powered submarine Nautilus was diving deep under the Greenland Icecap. The latter should be remembered as a proof of “remarkable benefits due to mankind from peaceful uses of atomic power”. That is what William R. Anderson, captain of the Nautilus, told the media on his return in 1958.
+
+[aside-left]
+----
+figure::images/arpa-logo.story-aside-left.jpg[caption="<strong><a href=\"glossary/index.html#ARPA\">ARPA</a></strong>, Advanced Research Projects Agency, emerged in the USA, in February 1958.", captionrole="glossary-ref", href="glossary/index.html#ARPA"]
+----
+
+For US politicians, Sputnik was a wake-up call. The event served the science committee as an excuse to ask for a larger money pot. New labs such as glossary:ARPA[] (the D for Defence was added in 1972) and NASA were funded, and calls were made for a “re-evaluation of engineering education”.
+
+["quote", attribution="<strong>International Competitiveness in Electronics</strong>, Washington, D. C., U.S. Congress, Office of Technology Assessment, OTA-ISC-200, November 1983."]
+“In the post-Sputnik period, beginning in the late 1950s, engineering schools emphasised quantitative, analytical skills even more. Accompanied by a strengthening of mathematics requirements.”
+
+
+[aside-right]
+----
+figure::images/1958-computer-tennis.story-aside-right.png[caption="Computer tennis, brought to you by William A. Higinbotham, in 1958. (<a href=\"http://www.stonybrook.edu/libspecial/videogames/tennis.html\">Source</a>)", href="http://www.youtube.com/watch?v=6PG2mdU_i8k", indicator="VIDEO"]
+----
+
+Media played their role well by supporting the concept of a threatening sky. The meme that was finally implanted in the collective mind was one that described the nation’s pride and an unknown war: nuclear war. Viewed in hindsight, one might conclude that it was rather strange that a mere piece of metal could have had such an affect. Yet one cannot deny that this occurred in the United States.
+
+== One treaty and six fountain pens
+
+figure::images/rome-treaty.story-inline-narrow.jpg[caption="Signing the Rome Treaty (Source: <a href=\"http://www.cvce.eu\">cvce.eu</a>).", role="story-inline-narrow"]
+
+In Europe, the story of networking began differently, even though it carries the same time stamp. In 1957, the key place for Europeans was not Leninsk, but Rome, in Italy. Europe was still sunk deep into a fiscal black hole, licking the wounds caused by World War II. 
+
+[aside-left]
+figure:images/eu-map-1958.story-aside-left.png[caption="*EEC signing members*: Italy, France, West Germany, Belgium, the Netherlands and Luxembourg."]
+
+[aside-left]
+----
+figure::images/treaty-rome-titelpage.story-aside-left.jpg[caption="The EEC Treaty, also called ”Treaty of Rome” (Source: <a href=\"http://www.1000dokumente.de/index.html?c=copyright_de&l=de\">Bayrische Staatsbibliothek</a>)", href="documents/1957-rome-treaty.pdf", indicator="PDF"]
+----
+
+Six European politicians and their advisors appeared before the cameras on 25 March 1957. Seated in a magnificent room, they signed a piece of paper. The image handed down over decades is not one of technology or conquering, but of http://www.zeit.de/1972/41/die-ungeliebten-eurokraten/seite-2[technocracy], and a desire for peace.
+
+figure::images/rome-treaty-video.story-inline-wide.jpg[caption="CEE: signature à Rome des traités Euratom et du Marché commun, 1957 (Source: <a href=\"www.cvce.eu\">cvce.eu</a>, Copyright: Belgavox, Bruxelles).", role="story-inline", href="http://www.cvce.eu/viewer/-/content/fb782c11-e947-49ca-b4b2-c94a3926a4da/ff8b5e3c-5b95-4523-bb36-a8748e492932/en", indicator="VIDEO"]
+
+["aside-right", css="margin-top: -160px;"]
+figure:images/elvis-jailhouse-rock.story-aside-right.jpg[caption="Elvis and the jailhouse rock, 1957 (Source: Library of Congress)."]
+
+== Two opposing attitudes
+
+[aside-right]
+figure:images/fortran-ibm-704-cover.story-aside-right.jpg[caption="In 1957 some learned to dance and some read the manual of the programming language Fortran.", role="with-icon-tool"]
+
+In the US, the headline of the time was: “Never Again”, which can be read to mean never again to come second in a scientific race. In Europe, the notion “never again” was also hailed, not in relation to science or engineering, but about war.
+
+Like the Sputnik launch, signing the Treaty of Rome was a milestone. Yet in contrast to the US, neither the European technocrats nor the mainstream media found it especially necessary to explain to the public what the treaty meant, in a language everybody could understand.
+
+[clip]
+----
+“Now, somehow, in some way, the sky seemed almost alien. I also remember the profound shock of realising that it might be possible for another nation to achieve technological superiority over this great country or ours.”
+
+[attribution]#*Lyndon B. Johnson*, then US Senate Majority Leader#
+----
+
+In contrast, Sputnik was branded a sensation: a great media event, as well as a world political affair which fired the general imagination. Even if one takes into account the time – the conservative 1950s with its belief in hierarchies, and command and control structures (the early twentieth century had witnessed two cruel world wars), one can already identify a red line which endures today: Compared to the US, Europe has a marketing and management problem to solve rather than a scientific one. 
+
+["story-ref", target="stories/Technology_is_always_also_politics.html", label="MORE: Technology is always also politics", linklabel="Continue reading at SCIENCE"]
+----
+“There has always been nationalism in anything technical.”
+
+[attribution]#*Peter Kirstein*, computer scientist. 2003#
+----
+
+
+In hindsight, one might conclude that the Treaty of Rome conferred the Nobel Peace Prize on Europe in 2013 while Sputnik helped the USA to gain supremacy over the Internet and data in general. Though this is short-sighted thinking, as there is always more to a story than one can digest at first glance. However, for a moment, let’s conclude just that.

@@ -1,0 +1,24 @@
+Charles Herzfeld
+================
+:kind: transcript
+
+sequence-nav::herzfeld-arpa-check[]
+
+audio::herzfeld-arpa-check[]
+
+== Transcript: SP
+
+“Taylor wanted a million to get the whole thing started right, and I said: Yes, sure! We talked about it.
+
+I understood a secret, which only directors of DARPA understand. Directors of DARPA always have enough money for something new and exciting because they can always kill something that is not so exciting.”
+
+
+== Transcript: LP
+
+“Taylor cuts the story short. It sounds a little bit like that was the first time I heard about it. That is not true. I explained to you how when Bob Sproull [1963-65] became director and I became deputy director, we had this double arrangement: number one – which was very important – I was equal, I mean alter-ego deputy. If I was at a meeting I spoke for him and he was comfortable with that. I do not remember a single instant were he said: ‘No, don’t do what Charles said, I want it different. No, that didn’t happen.
+
+The second principle of our system was, that each of us was more or less in charge of different projects, and IPTO was in my bag because he did not know very much about computing. He did not want to learn, and so on, so he divided the agency into half. As a consequence though, I was very much involved with IPTO from the beginning. Ivan Sutherland was director then, and he and I got along very well, and of course everyone knew I got along very well with Licklider.
+
+So anyway, as a consequence, Ivan Sutherland made sure I met all the important people in the field, and he made sure I went to see all the important things: I went to RAND to see the Rand Tablet at work; I went to MIT to see the computer human interface with the tablet, and other things. I met AI people, many of them. And I worked at it, and I was interested in it, because I had the introduction by Licklider and before that by [John] von Neumann to computing. So this is a big thing in my head. So that worked very well. 
+
+So, when Bob Taylor came in for that particular shot of many, which was the biggest shot for the ARPANET to be sure, I was well prepared, and we had agreed on principles, and so on and so on. There were a few details, but that took – ha – less than a day.”

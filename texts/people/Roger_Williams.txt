@@ -1,0 +1,33 @@
+Roger Williams
+==============
+:author: Mariann Unterluggauer
+:kind: biography
+:track: people
+
+[person-role]
+Scientist, Science Manager
+
+person-occurrences::Roger_Williams[]
+
+[aside-right]
+----
+figure::images/roger-williams.biography-aside-right.jpg[caption="Roger Williams (Source: Higher Education Funding Council for Wales)"]
+----
+
+“Professor Williams was educated at Tredegar Grammar School and Worcester
+College, Oxford, where he is an honorary fellow. Following a period with the National
+Coal Board in Operational Research, he was on the staff of the University of
+Manchester from 1966 to 1993 with periods of secondment in the US, Canada and
+Australia. 
+
+He was Special Adviser to the House of Lords Select Committee on Science
+and Technology from 1986 to 1992 and was Chairman of the joint Committee of the
+Science and Engineering Research Council and the Economic and Social Research
+Council. 
+
+He was Vice-Chancellor of the University of Reading from 1993 to 2002.
+Professor Williams joined as a HEFCW Council member  in 1995 and was appointed
+Chairman on 1 March 2002 for a period of 3 years, to 28 February 2005, after which he
+was reappointed until February 2008.“ (Source: http://www.hefcw.ac.uk/documents/news/press_releases/2006%20press%20releases/19.06.06%20arising%20higher%20-%20hefcw%20chairman%20awarded%20knighthood.pdf[Higher Education Funding Council for Wales])
+
+

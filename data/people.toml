@@ -1,0 +1,708 @@
+[labels.fields]
+P = "Politician"
+S = "Scientist"
+M = "Science Manager"
+N = "Normologist"
+I = "Industry"
+O = "Observer"
+C = "Cosmonaut"
+T = "Technologist"
+
+[labels.countries]
+EU = "Europe"
+AT = "Austria"
+BE = "Belgium"
+CA = "Canada"
+CN = "China"
+DE = "Germany"
+FR = "France"
+HU = "Hungary"
+IE = "Ireland"
+IT = "Italy"
+NL = "Netherlands"
+NO = "Norway"
+PL = "Poland"
+RO = "Romania"
+SE = "Sweden"
+CH = "Switzerland"
+SI = "Slovenia"
+UK = "UK"
+USA = "USA"
+USSR = "Soviet Union"
+
+[order]
+fields = [ "P", "S", "T", "M", "N", "I", "O", "C" ]
+countries = [ "EU", "AT", "BE", "CA", "CN", "DE", "FR", "HU", "IE", "IT", "NL", "NO", "PL", "RO", "SE", "CH", "SI", "UK", "USA", "USSR" ]
+
+[people.Pierre_Aigrain]
+first = "Pierre"
+last = "Aigrain"
+countries = [ "FR", "EU" ]
+fields = [ "P", "S" ]
+
+[people.Maurice_Allegre]
+first = "Maurice"
+last = "Allègre"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Richard_Van_Atta]
+first = "Richard"
+last = "Van Atta"
+sort = "Atta"
+countries = [ "USA" ]
+fields = [ "O" ]
+
+[people.Stan_Augarten]
+info = "Stan Augarten, USA (O)"
+
+[people.Paul_Baran]
+first = "Paul"
+last = "Baran"
+countries = [ "USA", "PL" ]
+fields = [ "S" ]
+
+[people.Derek_L_A_Barber]
+first = "Derek L. A."
+last = "Barber"
+countries = [ "UK", "EU" ]
+fields = [ "S" ] 
+
+[people.K_A_Bartlett]
+first = "K. A."
+last = "Bartlett"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Tim_Berners_Lee]
+first = "Tim"
+last = "Berners-Lee"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Nelson_Blachman]
+info = "Nelson Blachman, USA (S)"
+
+[people.Rob_Blokzijl]
+first = "Rob"
+last = "Blokzijl"
+countries = [ "NL", "EU" ]
+fields = [ "S" ]
+
+[people.Vannevar_Bush]
+info = "Vannevar Bush, USA (S)"
+
+[people.Robert_Cailliau]
+first = "Robert"
+last = "Cailliau"
+countries = [ "BE", "CH", "EU" ] 
+fields = [ "S", "N" ]
+
+[people.Martin_Campbell_Kelly]
+first = "Martin"
+last = "Campbell-Kelly"
+countries = [ "UK", "EU" ]
+fields = [ "O" ]
+
+[people.Carl_Cargill]
+first = "Carl"
+last = "Cargill"
+countries = [ "USA" ]
+fields = [ "I", "N" ] 
+
+[people.Michel_Carpentier]
+first = "Michel"
+last = "Carpentier"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Vint_Cerf]
+info = "Vint Cerf, USA (S)"
+
+[people.Michael_L_Coleman]
+first = "Michael L."
+last = "Coleman"
+countries = [ "USA" ]
+fields = [ "I" ]
+
+[people.Steve_Crocker]
+info = "Steve Crocker, USA (S)"
+
+[people.Wolfgang_Coy]
+first = "Wolfgang"
+last = "Coy"
+countries = [ "DE", "EU" ]
+fields = [ "S" ]
+
+[people.André_A_S_Danthine]
+first = "André A. S."
+last = "Danthine"
+countries = [ "BE", "EU" ]
+fields = [ "S" ]
+
+[people.Dai_Davies]
+first = "Dai"
+last = "Davies"
+countries = [ "UK", "EU" ]
+fields = [ "M", "I" ]
+
+[people.Donald_Watts_Davies]
+first = "Donald Watts"
+last = "Davies"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Howard_Davies]
+first = "Howard"
+last = "Davies"
+countries = [ "UK", "EU" ]
+fields = [ "M" ]
+
+[people.Étienne_Davignon]
+first = "Étienne"
+last = "Davignon"
+countries = [ "BE", "EU" ]
+fields = [ "P", "I" ]
+
+[people.John_Day]
+info = "John Day, USA (S)"
+
+[people.Michel_Debré]
+first = "Michel"
+last = "Debré"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Rémi_Després]
+first = "Rémi"
+last = "Després"
+countries = [ "FR", "EU" ]
+fields = [ "S" ]
+
+[people.Ann_Duenki]
+first = "Ann"
+last = "Duenki"
+countries = [ "USA", "CH", "EU" ]
+fields = [ "S" ]
+
+[people.H_W_Egli]
+first = "H. W."
+last = "Egli"
+countries = [ "CH", "EU" ]
+fields = [ "I" ]
+
+[people.Dwight_D_Eisenhower]
+first = "Dwight D."
+last = "Eisenhower"
+countries = [ "USA" ]
+fields = [ "P" ]
+
+[people.Douglas_Engelbart]
+info = "Douglas Engelbart, USA (S)"
+
+[people.Hermann_G_Gabler]
+first = "Hermann G."
+last = "Gabler"
+countries = [ "DE", "EU" ]
+fields = [ "T" ]
+
+
+[people.Valery_Giscard_d'Estaing]
+first = "Valéry"
+last = "Giscard d'Estaing"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Patrik_Fältström]
+first = "Patrik"
+last = "Fältström"
+countries = [ "SE", "EU" ]
+fields = [ "S", "I" ]
+
+[people.Amintore_Fanfani]
+first = "Amintore"
+last = "Fanfani"
+countries = [ "IT", "EU" ]
+fields = [ "P" ]
+
+[people.Robert_Fano]
+first = "Robert"
+last = "Fano"
+countries = [ "IT", "EU", "USA" ]
+fields = [ "S" ] 
+
+[people.David_J_Farber]
+first = "David J."
+last = "Farber"
+countries = [ "USA" ]
+fields = [ "S" ]
+
+[people.Elizabeth_Feinler]
+first = "Elizabeth"
+last = "Feinler"
+nick = "Jake"
+countries = [ "USA" ]
+fields = [ "S", "M" ]
+
+[people.Jan_Freese]
+first = "Jan"
+last = "Freese"
+countries = [ "SE", "EU" ]
+fields = [ "P" ]
+
+[people.Arnold_W_Frutkin]
+first = "Arnold W."
+last = "Frutkin"
+countries = [ "USA" ]
+fields = [ "P" ]
+description = "Assistant Administrator for International Affairs"
+
+[people.Yuri_Alekseyevich_Gagarin]
+first = "Yuri Alekseyevich"
+last = "Gagarin"
+countries = [ "USSR" ]
+fields = [ "C" ] 
+
+[people.Robert_Galley]
+first = "Robert"
+last = "Galley"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Charles_de_Gaulle]
+first = "Charles"
+last = "de Gaulle"
+sort = "Gaulle"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Emanuel_Goldberg]
+first = "Emanuel"
+last = "Goldberg"
+countries = [ "DE", "USA", "EU" ]
+fields = [ "S", "I" ]
+
+[people.Lucca_Guzzetti]
+first = "Lucca"
+last = "Guzzetti"
+countries = [ "IT", "EU" ]
+fields = [ "O" ]
+
+[people.Michael_Haberler]
+first = "Michael"
+last = "Haberler"
+countries = [ "AT", "EU" ]
+fields = [ "I" ]
+
+[people.Fritz_Hellwig]
+first = "Fritz"
+last = "Hellwig"
+countries = [ "DE", "EU" ]
+fields = [ "P" ]
+
+[people.Charles_Herzfeld]
+first = "Charles"
+last = "Herzfeld"
+countries = [ "AT", "USA", "EU" ]
+fields = [ "S", "M", "I" ]
+live = true
+link = "people/Charles_Herzfeld.html"
+story = true
+
+[people.Danny_Hillis]
+info = "Danny Hillis, USA (S)"
+
+[people.Roland_Hüber]
+first = "Roland"
+last = "Hüber"
+countries = [ "DE", "EU" ]
+fields = [ "P" ]
+
+[people.Theodor_Irmer]
+first = "Theodor"
+last = "Irmer"
+countries = [ "DE", "EU" ]
+fields = [ "T", "N" ]
+
+
+[people.Kai_Jakobs]
+first = "Kai"
+last = "Jakobs"
+countries = [ "DE", "EU" ]
+fields = [ "S", "N" ]
+
+[people.Dennis_Jennings]
+first = "Dennis"
+last = "Jennings"
+countries = [ "IE", "EU" ]
+fields = [ "S", "I" ]
+
+[people.Tor_Hjalmar_Johannessen]
+first = "Tor-Hjalmar"
+last = "Johannessen"
+countries = [ "NO", "EU" ]
+fields = [ "S", "I" ]
+
+[people.Henri_La_Fontaine]
+first = "Henri"
+last = "La Fontaine"
+countries = [ "BE", "EU" ]
+fields = [ "P" ]
+
+[people.Lyndon_B_Johnson]
+first = "Lyndon B."
+last = "Johnson"
+countries = [ "USA" ]
+fields = [ "P" ]
+
+[people.Bob_Kahn]
+info = "Bob Kahn, USA (S)"
+
+[people.Tomaz_Kalin]
+first = "Tomaz"
+last = "Kalin"
+countries = [ "SI", "EU" ]
+fields = [ "M", "I" ]
+
+[people.Charles_K_Kao]
+first = "Charles K."
+last = "Kao"
+countries = [ "CN", "UK", "EU", "USA" ]
+fields = [ "S", "I" ]
+
+[people.Daniel_Karrenberg]
+first = "Daniel"
+last = "Karrenberg"
+countries = [ "DE", "NL", "EU" ]
+fields = [ "S" ]
+
+[people.James_Killian]
+first = "James"
+last = "Killian"
+countries = [ "USA" ]
+fields = [ "S", "M" ]
+
+[people.Peter_Kirstein]
+first = "Peter"
+last = "Kirstein"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Leonard_Kleinrock]
+info = "Leonard Kleinrock, USA (S)"
+
+[people.Ken_Krechmer]
+info = "Ken Krechmer, USA (N)"
+
+
+[people.Butler_Lampson]
+info = "Butler Lampson, USA (S)"
+
+[people.Larry_Landweber]
+info = "Larry Landweber, USA (S)"
+
+[people.J_C_R_Licklider]
+first = "J.C.R."
+last = "Licklider"
+nick = [ "Lick", "JCR" ] 
+countries = [ "USA" ]
+fields = [ "S", "M" ]
+
+[people.Christian_Lösch]
+first = "Christian"
+last = "Lösch"
+countries = [ "AT", "EU" ]
+fields = [ "I", "M" ]
+
+[people.Stephen_J_Lukasik]
+first = "Stephen J."
+last = "Lukasik"
+countries = [ "USA" ]
+fields = [ "M" ]
+
+[people.Robin_Mansell]
+first = "Robin"
+last = "Mansell"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Andre_Marechal]
+first = "André"
+last = "Maréchal"
+countries = [ "FR", "EU" ]
+fields = [ "S", "M" ]
+
+[people.Robert_Marjolin]
+first = "Robert"
+last = "Marjolin"
+countries = [ "FR", "EU" ]
+fields = [ "P" ]
+
+[people.Hermann_Maurer]
+first = "Hermann"
+last = "Maurer"
+countries = [ "AT", "EU" ]
+fields = [ "S", "I" ]
+
+[people.John_McCarthy]
+info = "John McCarthy, USA (S)"
+
+[people.Gesualdo_Le_Moli]
+first = "Gesualdo"
+last = "Le Moli"
+countries = [ "IT", "EU" ]
+fields = [ "S" ]
+
+[people.Kees_Neggers]
+first = "Kees"
+last = "Neggers"
+countries = [ "NL", "EU" ]
+fields = [ "S", "M" ]
+
+[people.Ken_Olsen]
+info = "Ken Olsen, USA (I)"
+
+[people.Severo_M_Ornstein]
+first = "Severo"
+last = "Ornstein"
+countries = [ "USA" ]
+fields = [ "S" ]
+
+[people.Wilhelm_Ostwald]
+first = "Wilhelm"
+last = "Ostwald"
+countries = [ "DE", "EU" ]
+fields = [ "S" ]
+
+[people.Paul_Otlet]
+first = "Paul"
+last = "Otlet"
+countries = [ "BE", "EU" ]
+fields = [ "S" ] 
+
+[people.John_Postel]
+info = "John Postel, USA (S)"
+
+[people.Louis_Pouzin]
+first = "Louis"
+last = "Pouzin"
+countries = [ "FR", "EU" ]
+fields = [ "S" ]
+
+[people.Peter_Rastl]
+first = "Peter"
+last = "Rastl"
+countries = [ "AT", "EU" ]
+fields = [ "S", "M" ]
+
+[people.Eckart_Raubold]
+first = "Eckart"
+last = "Raubold"
+countries = [ "DE", "EU" ]
+fields = [ "S", "N", "I" ]
+
+[people.Lawrence_Roberts]
+first = "Lawrence G."
+last = "Roberts"
+nick = "Larry"
+countries = [ "USA" ]
+fields = [ "S", "I" ]
+
+[people.Philipp_Rösler]
+first = "Philipp"
+last = "Rösler"
+countries = [ "DE", "EU" ]
+fields = [ "P" ]
+
+[people.Tony_Rutkowski]
+first = "Tony"
+last = "Rutkowski"
+countries = [ "USA" ]
+fields = [ "N", "I" ]
+
+[people.Peter_H_Salus]
+first = "Peter H."
+last = "Salus"
+countries = [ "AT", "CA", "EU" ]
+fields = [ "S", "O" ]
+
+[people.Wayne_Sandholtz]
+first = "Wayne"
+last = "Sandholtz"
+countries = [ "USA" ]
+fields = [ "S", "O" ]
+
+[people.Gérald_Santucci]
+first = "Gérald"
+last = "Santucci"
+countries = [ "FR", "EU" ]
+fields = [ "P", "M" ]
+
+[people.Roger_A_Scantlebury]
+first = "Roger A."
+last = "Scantlebury"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Pietro_Schicker]
+first = "Pietro"
+last = "Schicker"
+countries = [ "CH", "EU" ]
+fields = [ "S", "N" ]
+
+[people.Glenda_Schroeder]
+info = "Glenda Schroeder, USA (S)"
+
+[people.Henning_Schulzrinne]
+first = "Henning"
+last = "Schulzrinne"
+countries = [ "DE", "USA", "EU" ]
+fields = [ "S" ]
+
+[people.István_Sebestyén]
+first = "István"
+last = "Sebestyén"
+countries = [ "CH", "HU", "EU" ]
+fields = [ "S", "N" ]
+
+[people.Ben_Segal]
+first = "Ben"
+last = "Segal"
+countries = [ "UK", "CH", "EU" ]
+fields = [ "S" ]
+affiliation = "CERN"
+
+[people.J_J_Servan-Schreiber]
+first = "Jean-Jacques"
+last = "Servan-Schreiber"
+countries = [ "FR", "EU" ]
+fields = [ "O", "P" ]
+description = "Journalist"
+
+
+[people.Peter_Paul_Sint]
+first = "Peter Paul"
+last = "Sint"
+countries = [ "AT", "EU" ]
+fields = [ "S" ]
+
+[people.Pål_Spilling]
+first = "Pål"
+last = "Spilling"
+countries = [ "NO", "EU" ]
+fields = [ "S" ]
+
+[people.Robert_Lamb_Sproull]
+first = "Robert"
+last = "Sproull"
+alternates = [ "Bob Sproull" ]
+countries = [ "USA" ]
+fields = [ "S", "M" ]
+
+[people.Eugenie_Staicut]
+first = "Eugenie"
+last = "Staicut"
+countries = [ "RO", "EU" ]
+fields = [ "S" ]
+
+
+[people.Hermann_Steinringer]
+first = "Hermann"
+last = "Steinringer"
+countries = [ "AT", "EU" ]
+fields = [ "T" ]
+
+
+[people.Andrew_Tanenbaum]
+first = "Andrew"
+last = "Tanenbaum"
+countries = [ "USA", "NL", "EU" ]
+fields = [ "S", "O" ] 
+
+[people.Robert_Taylor]
+first = "Robert"
+last = "Taylor"
+countries = [ "USA" ]
+fields = [ "S", "M" ]
+
+[people.Fouad_A_Tobagi]
+first = "Fouad A."
+last = "Tobagi"
+countries = [ "USA" ]
+fields = [ "S" ]
+
+
+[people.Klaus_Ullmann]
+first = "Klaus"
+last = "Ullmann"
+countries = [ "DE", "EU" ]
+fields = [ "S", "M" ]
+
+[people.Raymond_Vernon]
+info = "Raymond Vernon, USA (S)"
+
+[people.Dave_Walden]
+first = "Dave C."
+last = "Walden"
+countries = [ "USA" ]
+fields = [ "S" ]
+
+[people.John_Walsh]
+info = "John Walsh (O)"
+
+[people.Arthur_K_Watson]
+first = "Arthur K."
+last = "Watson"
+countries = [ "USA" ]
+fields = [ "I" ]
+
+[people.P_T_Wilkinson]
+first = "P. T."
+last = "Wilkinson"
+countries = [ "UK", "EU" ]
+fields = [ "S" ]
+
+[people.David_Williams]
+first = "David O."
+last = "Williams"
+countries = [ "CH", "UK", "EU" ]
+fields = [ "S" ]
+
+[people.Roger_Williams]
+first = "Roger"
+last = "Williams"
+countries = [ "UK", "EU" ]
+fields = [ "S", "M" ]
+live = true
+link = "people/Roger_Williams.html"
+
+[people.Harold_Wilson]
+first = "Harold"
+last = "Wilson"
+countries = [ "UK", "EU" ]
+fields = [ "P" ]
+
+[people.Karl_Zander]
+first = "Karl"
+last = "Zander"
+countries = [ "DE", "EU" ]
+fields = [ "S" ]
+
+[people.Heinz_Zemanek]
+first = "Heinz"
+last = "Zemanek"
+countries = [ "AT", "EU" ]
+fields = [ "S" ]
+
+[people.Hubert_Zimmermann]
+first = "Hubert"
+last = "Zimmermann"
+countries = [ "FR", "EU" ]
+fields = [ "S", "N" ]
+
+[people.Werner_Zorn]
+first = "Werner"
+last = "Zorn"
+countries = [ "DE", "EU" ]
+fields = [ "S" ]
+

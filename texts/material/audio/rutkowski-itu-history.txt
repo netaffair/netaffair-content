@@ -1,0 +1,23 @@
+Tony Rutkowski
+===============
+
+:kind: transcript
+
+sequence-nav::rutkowski-itu-history[]
+
+audio::rutkowski-itu-history[]
+
+== Transcript: SP
+
+“It all goes back to this conference in Dresden, in 1850. And then the French sort of took over in 1865 and created a larger group of players, so that ITU usually regards its origins as that 1865 meeting of the French. But in reality most of the ideas go back to this Austro-Hungarian union. It was the Austro-Hungarian Telegraph Union that met in Dresden in 1850.”
+
+== Transcript: LP
+
+“Then the Americans became part of the [ITU] efforts through the transatlantic cables. They had to invent some changes at that time because it was Western Union rather than the United States government that was operating these systems. So they created this concept of ‘Recognised Operating Agency’ that could basically enter into the same treaty agreement that the nations did. But then the telephone came into being, and so they adapted – or basically accommodated – the telephone. Then you got wireless communications, in the early part of the twentieth century, and so this became the home for international work on what are sort of the rules of the road and [what] the standards ought to be for interconnecting radio systems.
+
+And then again, the technologies just kept on evolving. You had the satellite systems in the sixties that basically got added into the scope of the work, and then you had the data communication systems: first packet networks and then internets and electronic mail and all kinds of new services. Even the World Wide Web was done here, in the form of SGML.
+
+
+That was all done during the eighties. And then, what is kind of fascinating in many ways if you get into the nineties, the DARPA Internet technology came into the public marketplace, and this organisation, in a sense, for some years, went into a kind of a depression. All of this work they had done, a good portion of it, sort of failed in the marketplace. So, there was this period – essentially from 1996 and I would say until maybe 2002 – where they did not quite know what to do.
+
+But since then, as people have realised that those DARPA Internet technologies have fundamental flaws as public infrastructure, there have been efforts now in the context of next generation networks and new security technologies in which, in many ways, a sort of going back to what was done twenty years ago, when a lot of people, who were very bright and thought about these things way in advance of them happening, tried to design into the infrastructures things that would improve security in an open public network environment. And so, that scenario is sort of what continues to take place here [at ITU].”

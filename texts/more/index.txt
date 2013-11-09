@@ -1,0 +1,100 @@
+Resources
+=========
+:kind: resources
+
+== Other Internet History Projects
+
+=== ASIA 
+
+Internet history in Asia, from the 1980s and 1990s. + 
+https://sites.google.com/site/internethistoryasia/about
+
+=== EUROPE
+
+Kim Veltman, Networks, New media and Augmented Culture, Sumscorp. +
+http://www.sumscorp.com/new_media/computers/networks
+
+Olivier H. Martin, The “hidden” Prehistory of European Research Networking or The sad saga of the obscurantism of some European networking leaders and their influence on European Research Networks”, October 25, 2012. +
+http://www.ictconsulting.ch/reports/European-Research-Internet-History.pdf 
+
+Carl Malamud, Exploring the Internet. A Technical Travelogue, Prentics Hall, 1993. +
+http://museum.media.org/eti/Exploring_the_Internet.pdf
+
+Valérie Schafer +
+http://www.iscc.cnrs.fr/spip.php?article1135
+
+Andrew Russell, OSI: The Internet That Wasn’t, 29 July 2013, IEEE Spectrum. +
+http://spectrum.ieee.org/computing/networks/osi-the-internet-that-wasnt
+
+Coming soon: +
+Andrew Russell, Open Standards and the Digital Age: History, Ideology, and Networks, Cambridge University Press, early 2014.
+
+
+=== USA
+
+Internet Hall of Fame +
+http://www.internethalloffame.org/
+
+Collection of original papers about packet-switching. +
+http://rogerdmoore.ca/PS/
+
+== Interesting Sources
+
+=== European Union
+
+EU bookshop: + 
+An online bookshop and archive of publications from the European institutions. +
+http://bookshop.europa.eu
+
+Historical Archive of the European Commission, Brussels. +
+Worth a personal visit. Smell of papers and microfiche included. +
+http://ec.europa.eu/historical_archives/index_en.htm 
+
+OECD Digital Economy Papers. +
+http://www.oecd-ilibrary.org/science-and-technology/oecd-digital-economy-papers_20716826?page=5
+
+Centre Virtuel de la Connaissance sur l'Europe +
+http://www.cvce.eu/recherche/corpus
+
+
+=== Austria
+
+IIASA, Laxenburg +
+Webarchive +
+http://webarchive.iiasa.ac.at/cgi-bin/pub/pubsrchKK +
+Search term: computer networks
+
+=== France
+
+History CII: +
+http://www.feb-patrimoine.com/projet/histoire_informatique/histoire_cii_1972-1975.htm
+
+Entreprises et histoire, n° 29, 2002/1. +
+http://www.cairn.info/revue-entreprises-et-histoire-2002-1.htm 
+
+
+=== USA
+
+Coming soon: + 
+Charles Herzfeld, A Life at full Speed. A memoir. 
+
+
+Barber Associates, Richard J. Barber, The Advanced Research Projects Agency 1958-1974, report prepared for the Advanced Projects Research Agency under contract MDA 903-74-C-0096. Defense Technical Information Center, Springfield, Va., December 1975, NIST, ADA154363. +
+http://www.ntis.gov/search/product.aspx?ABBR=ADA154363
+
+See also: +
+http://archive.org/search.php?query=Barber%2C%20Richard%20associates
+
+Ronda and Michael Hauben, Netizens: An Anthology, 1996. +
+http://www.columbia.edu/~rh120/ 
+
+
+David Walden and Raymond Nickerson (Editors), A Culture of Innovation. Insider Accounts of Computing and Life at BBN, A sixty year report, 18 October 1948 to 1 July 2010. +
+http://www.walden-family.com/bbn/
+
+Federal Communications Commission, Communications History: +
+http://transition.fcc.gov/omd/history/internet/something2share.html
+
+
+
+

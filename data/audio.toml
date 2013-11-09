@@ -1,0 +1,168 @@
+[sequences]
+
+herzfeld = [
+    "herzfeld-1938",
+    "herzfeld-arpa-material-science",
+    "herzfeld-arpa-check",
+    "herzfeld-leaving-arpa",
+    "herzfeld-arpa-no-enemies"
+]
+
+allegre = [
+    "allegre-plan-calcul-economic-purpose",
+    "allegre-schreiber"
+]
+
+rutkowski = [
+    "rutkowski-itu-history"
+]
+
+kirstein = [
+    "kirstein-translation-inbetween"
+]
+
+audioplay = [
+    "fast-forward-audioplay"
+]
+
+roesler-sequence = [
+    "roesler"
+]
+
+
+# Audio plays
+
+[audio.fast-forward-audioplay.short]
+title = "Fast Forward"
+clip-title = "Internet history fast-forward"
+info = "Various interviews, done between 2003 - 2012"
+date-range = ["2013", "2012"]
+length = "6:04"
+
+
+# Rösler
+
+[audio.roesler.short]
+person = "Philipp Rösler"
+title = "Rösler and the digital world"
+clip-title = "It’s the future"
+info = "Source: “Zukunft in digitaler Welt”, mo:ma, morgenmagazin, ZDF, 17 May 2013."
+date = "2013-05-17"
+length = "0:16"
+
+
+# Tony Rutkowski
+
+[audio.rutkowski-itu-history.short]
+person = "Tony Rutkowski"
+title = "ITU history"
+clip-title = "It began with the Dresden Convention, in 1850"
+info = "Interview 14 May 2008, Geneva"
+date = "2008-05-14"
+length = "0:36"
+
+[audio.rutkowski-itu-history.long]
+person = "Tony Rutkowski"
+title = "ITU history"
+clip-title = "It began with the Dresden Convention, in 1850"
+info = "Interview 14 May 2008, Geneva"
+date = "2008-05-14"
+length = "3:09"
+
+
+# Peter Kirstein
+
+[audio.kirstein-translation-inbetween.short]
+person = "Peter Kirstein"
+title = "Doing it the British way"
+clip-title = "\"And the translation in between\""
+info = "Interview 17 July 2003, Vienna"
+date = "2003-07-17"
+length = "0:49"
+
+[audio.kirstein-translation-inbetween.long]
+person = "Peter Kirstein"
+title = "Doing it the British way"
+clip-title = "\"... and the translation in between\""
+info = "Interview 17 July 2003, Vienna"
+date = "2003-07-17"
+length = "2:20"
+
+
+# Maurice Allègre
+
+[audio.allegre-plan-calcul-economic-purpose.short]
+person = "Maurice Allègre"
+title = "Plan Calcul"
+clip-title = "Not for military"
+info = "Interview 24 November 2008, Paris"
+date = "2008-11-24"
+length = "0:30"
+
+[audio.allegre-schreiber.short]
+person = "Maurice Allègre"
+title = "The American Challenge"
+clip-title = "A bestseller and a journalist"
+info = "Interview 24 November 2008, Paris"
+date = "2008-11-24"
+length = "0:31"
+
+
+# Charles Herzfeld
+
+[audio.herzfeld-1938.short]
+person = "Charles Herzfeld"
+title = "Leaving Europe, 1938"
+clip-title = "\"That was ein Wahnsinn!\""
+info = "Telephone Interview, 19 December 2005"
+date = "2005-12-19"
+length = "0:22"
+keywords = ["Europe", "Emigration"]
+
+[audio.herzfeld-arpa-material-science.short]
+person = "Charles Herzfeld"
+title = "Material Sciences"
+clip-title = "\"I think that changed the world!\""
+info = "Telephone Interview, 19 December 2005"
+date = "2005-12-19"
+length = "2:42"
+keywords = ["Material Science", "ARPA"]
+
+[audio.herzfeld-arpa-material-science.long]
+person = "Charles Herzfeld"
+title = "Material Sciences"
+clip-title = "\"I think that changed the world!\""
+info = "Interview 8 September 2006, Geneva"
+date = "2006-09-08"
+length = "4:05"
+
+[audio.herzfeld-arpa-check.short]
+person = "Charles Herzfeld"
+title = "How ARPANET began"
+clip-title = "What's the fuss about this check?"
+info = "Interview 8 September 2006, Geneva"
+date = "2006-09-08"
+length = "0:20"
+
+[audio.herzfeld-arpa-check.long]
+person = "Charles Herzfeld"
+title = "How ARPANET began"
+clip-title = "What's the fuss about this check?"
+info = "Interview 8 September 2006, Geneva"
+date = "2006-09-08"
+length = "2:03"
+
+[audio.herzfeld-leaving-arpa.short]
+title = "Leaving ARPA"
+clip-title = "The most wonderful job"
+info = "Telephone Interview, 19 December 2005"
+date = "2005-12-19"
+length = "1:14"
+
+[audio.herzfeld-arpa-no-enemies.short]
+person = "Charles Herzfeld"
+title = "About ARPA"
+clip-title = "ARPA had no enemies in the beginning"
+info = "Telephone Interview, 19 December 2005"
+date = "2005-12-19"
+length = "0:58"

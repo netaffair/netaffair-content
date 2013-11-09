@@ -1,0 +1,656 @@
+Glossary
+========
+:author: Mariann Unterluggauer
+:kind: glossary
+
+
+.ACM
+----
+Association for Computing Machinery
+
+Founded in the USA in 1947, with its focus on computing machinery. It once connected mathematicians, engineers and computer manufacturers. Today it includes all aspects of computing. (http://acm.org[acm])
+----
+
+
+.AEG Telefunken
+----
+The joint venture of Siemens & Halske and the Allgemeine Elektricitäts-Gesellschaft was founded in Berlin, Germany, in 1903. AEG Telefunken at one time also produced computers. One of its machines was called the http://link.springer.com/article/10.1007%2Fs00450-008-0047-3#page-1[TR 440]. 
+
+Some might remember the quarrel over standard PAL versus SECAM, which are two competing colour encoding systems for analogue television. SECAM came first, but PAL won, and the first PAL commercial TV set was brought onto the market by Telefunken.  
+----
+
+
+.ARPA
+----
+Advanced Research Projects Agency 
+
+Founded in the US in 1958, as a result of the Soviet Union’s launch of the Sputnik satellite. Initially ARPA’s scope was: space, missile defence and nuclear-test detection, but in its early years, space was spun off and became NASA. Also ARPA’s name changed: ARPA became DARPA, Defence Advanced Research Project Agency, in 1972.
+----
+
+
+.ARPA-IPTO
+----
+Office of Information Processing Techniques and Behavioral Science
+
+In 1962 IPTO was initiated, and J.C.R. Licklider became its first director. IPTO's purpose was to examine information processing techniques, with the focus on possible relevance to command and control. 
+----
+
+
+.ARPANET
+----
+US research computer network, 1969 - 1990
+
+The ARPA-network project of the Advanced Research Projects Agency (ARPA) was an experimental system for sharing remote computer facilities. Two nodes were connected in autumn 1969 (UCLA and Stanford Research Institute in Menlo Park, SRI), and two more were added in December 1969. The first transatlantic link of the ARPANET was set by Peter Kirstein, University College London, in 1973. At the time the data was routed via the Norwegian Seismic Array (NORSAR) research centre in Kjeller, near Oslo. In 1983, the ARPANET Protocol – Network Control Program (also called Protocol) – was replaced by the protocol suite TCP/IP, which is standard practice to the present day. 
+
+ARPANET was first presented to the public at the International Computer Communication Conference (ICCC) in the Hilton Hotel in Washington DC, in October 1972. For Bob Kahn – he conducted the ARPANET presentation “this was the most wonderful day in his life” (Bob Kahn, Interview 2004). In an interview with US Journalist http://www.ais.org/~jrh/acn/ACn12-2.pdf[Ronda Hauben], Kahn recalls “that the ARPANET was originally designed with the notion of computer-to-computer communication in mind. It has subsequently been extended in capability to allow users with terminal equipment but no computer to connect to the net and communicate with computers and other users. In this sense, the ARPANET has taken the opposite approach from every other network with user access originally in mind.” 
+
+In 1975/76 ARPANET was divided into a sub-network still called ARPANET and MILNET (military network). Out of the ARPANET evolved the Internet in 1983. A conference was set up for the 20th anniversary of ARPANET, where some of the original players could not resist contributing a few lines. (RFC1121, http://www.faqs.org/rfcs/rfc1121.html[Act One - The Poems]). 
+----
+
+
+.Batch Processing
+----
+A computer solves only one problem at the time. It should be remembered that in the 1950s and 1960s computers were seen as clumsy, as their reaction time was not counted in seconds but in hours. 
+----
+
+
+.BULL
+----
+Compagnie des Machines Bull
+
+The company evolved from punched-card machine patents developed in Norway by Fredrik Rosen Bull into the largest data-processing manufacturing organisation in Europe in the 1950s. At the time Bull was ranked among the top four companies of the world. 
+
+TThe punched-card machines, which could record, add and sort data were first manufactured in Switzerland by H.W. Egli, but moved to Paris, France, in the early 1930s. With the introduction of Gamma 60, in 1956, Bull started an ambitious project to compete with IBM’s and Univac’s large business computers. However, the company began to founder in 1963 and was taken over by General Electric (GE) in 1964 for a 50% stake 
+
+Today, the Bull Group, Bull Information Systems, is one of the few European hardware manufacturers to appear in the world TOP500 supercomputer list. 
+----
+
+
+.CAE
+----
+Compagnie européenne d’automatisme électronique
+
+A French computer manufacturer which became part of Compagnie Internationale Informatique (CII), in 1967.
+----
+
+
+.CATENET
+----
+Term invented by French computer scientist Louis Pouzin in the 1970s, for connecting networks: “I cooked up ‘catenet’ from the Latin ‘catena’, and quite obviously twisted it into ‘catenet’.” (Louis Pouzin, 2008)
+
+CATENET was still used in the “Internet Protocol Transition Workbook”, which was handed out to master the transition from the first ARPANET protocol to the TCP/IP protocol suite in 1983.
+
+Vint Cerf adds to this episode, March 2008: 
+“I used the term in a very early paper (IEN 48) in part to acknowledge Louis Pouzin's work at IRIA. The term "internetwork" was used in the paper that Bob Kahn and I wrote in May 1974 and the foreshortened "internet" emerged in the December 1974 TCP specification in the title.
+
+Catenet was a foreshortened form of "concatenation of network" but "internet" seemed to resonate more in day-to-day speech.” 
+----
+
+
+.CCITT
+----
+Comité Consultatif International Télégraphique et Téléphonique 
+
+Renamed into International Telecommunication Union - Telecommunication Standardization Sector (ITU-T) in 1992. It is the United Nations specialised agency for information and communication technologies.
+----
+
+
+.CEAB
+----
+Archival code of the Historical Archive of the European Commission
+
+The CEAB group of funds contains the archives of the High Authority of the European Community for Coal and Steel, and its various directorates, horizontal committees and working groups.
+----
+
+
+.CERN
+----
+European Council for Nuclear Research
+
+“The name CERN is derived from the acronym for the French ”Conseil Européen pour la Recherche Nucléaire.” Founded in 1952 with the mandate of establishing a world-class fundamental physics research organisation in Europe. At that time, pure physics research concentrated on understanding the inside of the atom, hence the word ‘nuclear’. (Source: http://home.web.cern.ch/about[CERN])
+
+The founding members are: Belgium, Denmark, France, West Germany, Greece, Italy, the Netherlands, Norway, Sweden, Switzerland, the United Kingdom and Yugoslavia
+----
+
+
+.CII
+----
+Compagnie Internationale pour l’Informatique (later to become Bull)
+
+The French ”national champion” for the computer industry was formed by the union of the Société d’électronique et d’automatisme (SEA) and the Compagnie européenne d’automatisme électronique (CAE), in 1967. 
+
+“In April 1967 a 5-year agreement was signed between CII and the French government under which the government will make available $80 million in research contracts and about $8 million in other types of aid. If the company achieves its goals, repayment of the money is provided for” (Source: France: First the Bomb, Then the “Plan Calcul”, Science, Vol. 156, 1967.) In hindsight, additional funds were needed in the coming years to cover the losses of CII. 
+
+The Mitra 15, produced within CII, had to be used for COST Project 11, the first pan-European Informatics network, due to common European industry policy. Not all members of the COST 11 group at the five centres were amused. They had never heard of the Mitra 15 before, and preferred to use the DEC PDP-11 instead. In the 1970s, the PDP-11 – made by Digital Equipment Corporation – was in widespread use at universities, and – most importantly – service for the machine was easily available.        
+----
+
+
+.Computer
+----
+Computers changed their shape, size and use over time, and are known under a lot of different names: mathematical instrument, calculator, “number cruncher”, supercomputer, mainframe, universal machine, workstation, personal computer, laptop, personal digital assistant, console, tablet, smartphone, you name it.
+
+In the beginning, the machines used vacuum tubes. In the 1950s transistors became operational. But not everybody was happy with this line and not all will agree today. For instance, Charles W. Bachman preferred to talk about computers as information systems, “dating back from the beginning of effective punched card equipment rather than from the beginning of the stored program computer.” (Source: Charles W. Bachman, The Programmer as Navigator”, Vol 16, No 11, November 1973, Communication of the ACM)
+     
+In the US, computer names were inspired by the wind for a period. For example there was Whirlwind and Taifun while Austria had a machine called Mailüfterl (a mild summer breeze). Another time it was fashionable to end the name with “ac”: Univac, Eniac, Illiac.
+----
+
+
+.COST
+----
+Cooperation Europeenne dans la Domaine de la Recherche Scientifique et Technique
+
+COST was set up in 1969, and is today considered the oldest intergovernmental science cooperation framework within Europe. One of the first projects at COST was EIN, the plan to build an experimental pan-European Informatics Network (COST Project Number 11). With the creation of COST, scientists entered the fray in Brussels. Their first challenge was to prove that they also could play well in political and industrial arenas.
+----
+
+
+.COST Project 11
+----
+COST Project 11 – A European Informatics Network (EIN) was set up as a European international research project to study informatics network techniques, with the purpose of:
+1) Facilitating the exchange of ideas between the computer centres which it links;
+
+2) Providing a forum for the discussion and comparison of schemes now being proposed for information exchange between computers;
+
+3) Providing a potential model for future networks, whether for commercial or other purposes.
+
+In order to do so a multilateral treaty was signed in Geneva by the Governments of the French Republic, the Italian Republic, the Socialist Federal Republic of Yugoslavia, the Kingdom of Norway, the Republic of Portugal, the Swiss Confederation, Sweden, the United Kingdom of Great Britain and Northern Ireland as well as the European Atomic Energy Community (Euratom) on 23 November 1971, and came into force on 1 February 1973. West Germany came late and signed the UN treaty in 1976.
+----
+
+
+.CPEMT
+----
+Comité de politique économique à moyen terme
+
+Formed in 1964 to foster science and technological common projects within the EEC Six (Italy, France, West Germany, Belgium, the Netherlands and Luxembourg).
+----
+
+
+.CREST
+----
+Comité de la Recherche Scientifique et Technique
+
+“In 2010 CREST was renamed as ‘European Research Area Committee‘ (ERAC) in order to better align its role with the new emphasis given  on the functioning of the European Union (Source: http://ec.europa.eu/research/era/partnership/process/crest_de.htm[CREST]). 
+----
+
+
+.CTSS
+----
+Compatible Time-Sharing System
+
+Developed at MIT under the lead of the Italian scientist Robert Fano.
+----
+
+
+.Datagram
+----
+A neologism derived from “telegram” and devised by Norwegian engineer Halvor Bothner-By (Source: Louis Pouzin, Les Echos, 20, 21 June 2008). The Datagram architecture was first installed in the French packet-switching subnetwork Cigale, and later implemented in the protocol suite TCP/IP. At CCITT – the standardisation body for the telecoms – Datagram was a source of anger, and was not standardised until 1994. (CCITT was renamed ITU-T in 1992.)  
+----
+
+
+.DEC
+----
+Digital Equipment Corporation 1957 - 1998
+
+Founded by Ken Olsen and Harlan Anderson in 1957. Digital Equipment Corporation, also known as DEC and using the trademark DIGITAL, was a major American company in the computer industry. It was a leading vendor of computer systems, software and peripherals from the 1960s to the 1990s, and its PDP and VAX products were the most successful minicomputers (in sales terms). DEC was acquired by Compaq in June 1998, which subsequently merged with Hewlett-Packard in May 2002. Some parts of DEC, notably the compiler business and the Hudson, Massachusetts facility, were sold to Intel.  (Source: http://ithistory.org/companies/companies-company.php?companyName=Dell&submitBtn=Search[ithistory])
+----
+
+
+.EBU
+----
+European Broadcasting Union
+At management level, the European Broadcasting Union was founded to exchange equipment and to set standards. In their own words its mission is: “to defend the interests of public service media and to promote their indispensable contribution to modern society. It is the point of reference for industry knowledge and expertise.” (Source: http://www3.ebu.ch/cms/en/home[EBU])
+----
+
+
+.ECSC
+----
+European Coal and Steel Community 
+
+The treaty for that oldest club in EU history was signed by West Germany, France, Italy, Belgium, Luxembourg and the Netherlands in 1951. The treaty expired on 23 July 2002.
+----
+
+
+.EEC
+----
+European Economic Community 
+
+Established through the Treaty of Rome on 25 March 1957 by Italy, France, West Germany, Belgium, the Netherlands and Luxembourg. Renamed the European Union in 1993. 
+----
+
+
+.EFTA
+----
+European Free Trade Association
+
+Established on 3 May 1960 as a trade-bloc alternative within Europe. Today, the member states are: Iceland, Lichtenstein, Norway and Switzerland.
+----
+
+
+.EIT
+----
+The European Institute for Innovation and Technology (EIT) opened its doors officially in Budapest in March 2008. Yet its associated institutes are spread over seven European countries, industries and universities. (Helsinki, Stockholm, Eindhoven, London, Berlin, Paris, Trento).
+----
+
+
+.ELDO
+----
+European Launcher Development Organisation
+
+This particular convention to unite space industry and research was signed in 1962, but right from the beginning the plan showed signs of weakness: 
+“The space industry had perhaps the least encouraging development at a European level during the 1960s: here the European Launcher Development Organisation (ELDO) had worked on the development of a rocket which, had it been built, would have been unable to transport the satellites planned by the European Space Research Organisation (Source: ESRO). 
+
+Neither researchers nor the US were amused. In 1966 Britain threatened to withdraw from this large-scale European venture, for which costs had risen. Finally, in 1975, space research was handed over to the newly formed European Space Agency (ESA).
+
+For more information we recommend: link:documents/2000-a-history-of-the-european-space-agency.pdf[J. Krige and A.Russo, A History of the European Space Agency 1958 – 1987, 2000]
+----
+
+
+.Elliott Brothers
+----
+Elliott Brothers (London) Ltd, Elliot Automation 1946 − 1967
+
+Elliott Brothers “entered the general-purpose computer field in the early 1950s, producing several serial scientific machines. The first business data processing machine made by Elliott was the 405 computer, using tube/diode logic, a magnetic tape memory and a 16,000-word magnetic disk memory.
+
+In 1958, Elliott introduced the partly transistorised 802 computer, followed almost immediately by the completely transistorised 803, which was promoted as a small-scale scientific computer, a small-scale business data processor, or as the computer unit of an online industrial data processing system.” (Source: Isaac L. Auerbach, European Electronic Data Processing – A Report on the Industry and the State-of-the-Art, Proceedings of the IRE, p. 330, January 1961)
+----
+
+
+.EMUA
+----
+European Monetary Units of Account
+
+EMUAs were used by the European Communities in order to determine the value of financial transactions within the community other than as national currencies. This was before the EURO was introduced. It was used in “sixteen areas of the Community’s activities, the main ones being the budget, the agricultural policy, the Coal and Steel Community, the European Investment Bank and the Statistical Office.” (See: link:documents/units-of-account/[Commission of the European Communities (CEC) 87/75, The Units of Account as a Factor of Integration, in: Information, Economy and Finance])
+----
+
+
+.English Electric Company Ltd.
+----
+In 1947, the National Physical Laboratory at Teddington, England, formed an Electronics Section to undertake the design and construction of an electronic digital computer, designated ACE. In 1952, the English Electric Company was given the task of designing an engineered model of the ACE design, with expanded capability. The result was DEUCE (Digital Electronic Universal Computing Engine), a vacuum-tube serial machine with mercury-delay storage and magnetic drum backup storage. (Source: Isaac L. Auerbach, European Electronic Data Processing – A Report on the Industry and the State-of-the-Art, Proceedings of the IRE, p. 330, January 1961)
+----
+
+
+.ERAC
+----
+European Research Area Committee
+
+Formerly CREST, ERAC “is a strategic policy advisory body whose function is to assist the European Commission and the Council of the European Union in performing the tasks incumbent on these institutions in the sphere of research and technological development.
+
+In its Resolution of 7 December 2009 the Council has launched the process of redefining the mission of CREST in the context of an enhanced governance of the European Research Area. In its Resolution of 26 May 2010, this resulted in a revised mandate for CREST.”  
+(Source: http://ec.europa.eu/research/era/partnership/process/crest_de.htm[CREST])
+----
+
+
+.ESRO
+----
+European Space Research Organisation
+
+A predecessor organisation of ESA, the European Space Agency. After the USSR won the space race by launching the Sputnik I satellite, NASA was created in the US and ESRO in Europe.
+
+"At the time the UK was the leading country in the space effort in Europe. The British worked on the development of solid-fuel guided rockets during the war, and as early as October 1945 launched three captured V-2s with the help of German specialists.” (See: link:documents/2000-a-history-of-the-european-space-agency.pdf[J. Krige and A.Russo, A History of the European Space Agency 1958 – 1987, 2000])
+----
+
+
+.EURATOM
+----
+Atomic Energy Community
+
+The Treaty was signed on 25 March 1957. The idea of building an infrastructure that could foster the exchange of scientific and technical information was also inspired by the need for particle physicists to share their information.   
+
+“Currently two information centres exist at a European level: Euratom for nuclear issues and ESRO-CNRS for space research. Both work quite satisfactorily and the Euroatom centre seems to approach the stage of automatic documentation quite successfully as it is apparently ahead of the US.” (Source: CEAP 11932, 1967, History Archive of the European Commission)
+----
+
+
+.Eureka
+----
+”French President François Mitterand (1981-1995) proposed a Research & Development programme to counteract the civilian repercussions of the US Strategic Defense Initiative (SDI), in 1985. The French argued (and many Europeans agreed) that SDI would harm Europe’s high-tech enterprises by (1) subsidizing technological advances in US industries that would translate into market advantages; (2) inducing a brain drain, as European scientists and technologists followed the allure of cash-rich SDI projects.” (Wayne Sandholtz, High-Tech Europe, The politics of international cooperation, University of California Press, 1992)
+----
+
+
+.EUROVISION
+----
+A collaborative European action under the leadership of public European Broadcasting Corporations was set up to get a feel for European culture. The first united broadcast covered the Montreux daffodil festival on 6 June 1954. 
+
+The only vestige now remaining of this public initiative for media unification is the annual Eurovision Song Contest.
+----
+
+
+.Ferranti
+----
+Ferranti Limited, 1885 − 1993
+
+This UK electrical engineering and equipment firm began to develop computers in the late 1940s. Their machines had interesting names such as Mark 1, Pegasus, Atlas and Titan. Ferranti was merged into International Computers and Tabulators (ICT) in 1963 (See: link:documents/1995-kelly-campbell-icl-and-the-uk-mainframe.pdf[Martin Campbell-Kelly, ICL and the Evolution of the British Mainframe, 1995])
+----
+
+
+.7th Framework
+----
+The Framework Programme was the name for the EU’s main instrument for funding research in Europe. Number 7, or FP7 for short, indicates the timeframe 2007 to 2013. Yet, in 2012 a new name was sought and chosen. The research and technical development programme is now called “Horizon 2020”.
+----
+
+
+.GE
+----
+General Electric, 1892
+
+“General Electric Company is an American multinational conglomerate corporation incorporated in Schenectady, New York, and headquartered in Fairfield, Connecticut, United States. The company operates through four segments: Energy, Technology Infrastructure, Capital Finance and Consumer & Industrial.”  (http://ithistory.org/companies/companies-company.php?companyName=General+Electric&submitBtn=Search[IT History Society] 
+
+The French Computer Company Bull had been sold to GE due to bankruptcy in 1964 for a 50% stake. In 1970, the computer division of GE was sold to Honeywell, another American multinational conglomerate company.
+----
+
+
+.GMD
+----
+Gesellschaft für Mathematik und Datenverarbeitung, Darmstadt 
+
+GMD Darmstadt was involved in COST Project 11, the experimental pan-European Informatics Network, which was established in 1971. It was nominated as an associated centre, “not connected permanently to the network, but capable of access through the public switched telephone network to a number of primary and secondary centres.” (Source: Presentation of the European Informatics Network, 5 April 1978)
+----
+
+
+.Horizon 2020
+----
+EU programme for research and technical development funding. (Formerly known as the Framework Programme.)
+----
+
+
+.IBM
+----
+International Business Machines Corporation, 1911 (according to IBM)
+
+Several dates could be selected by IBM to celebrate its birth: There is the establishment of the Tabulating Machine Company in 1896. The enterprise did business with its “Hollerith machine”, which was consulted for the statistical evaluation of censuses, and by selling punch cards. Little paper strips, in which information such as sex, age and nationality was stored in the form of holes. Or else 1924 could be considered the year of its founding. At that time the name International Business Machines Corporation was registered in the American Companies Register. In addition, June 1911 is the date of a merger and the birth of the company Computing Tabulating and Recording Company Incorporated, which is what IBM was called up until 1924.
+
+Much has been written about IBM’s eventful history. Here we pick just one milestone for now: the creation of System 306. This new product was announced in 1964 and cost IBM five billion dollars. It is said that System 360 was the company’s most risky venture. It was conducted by Arthur K. Watson. 
+
+Just the announcement of the new product line was enough to put pressure on European computer manufacturers. In general, one could conclude that if Europe ever came close to establishing a computer industry policy, it was because of IBM, the world’s leading computing company in the 1960s and 70s, with a market share of over 70%. This was simply because all nations had to confront and pay court to the same enemy. “IBM and the seven dwarfs” was a popular catchphrase in the US media for IBM and the other US computer manufacturers during the 1960s.
+----
+
+
+.ICL
+----
+International Computers Limited, 1968 − 2002
+
+ICL was Britain’s “national champion”, a flagship computer manufacturer. The company was created by a government-inspired merger. The idea was to strengthen forces in order to establish an alternative to IBM and other US suppliers, who were enthusiastically crowding into the European market.
+
+Martin Campbell-Kelly writes: “To understand the history of ICL, it is necessary to appreciate that both ICL and IBM have a common ancestor, and that for over 40 years they had something of a love-hate relationship”. To understand ICL better, we suggest taking the time to read Campbell-Kelly’s link:documents/1995-kelly-campbell-icl-and-the-uk-mainframe.pdf[ICL and the Evolution of the British Mainframe, 1995].
+----
+
+
+.IEE
+----
+Institution of Electrical Engineers
+
+This British organisation of electronics, electrical, manufacturing, and information technology professionals was formed in 1968.
+
+In 2006, the IEE merged with the Institution of Incorporated Engineers (IIE) to create the Institution of Engineering and Technology (IET). (http://www.theiet.org/[I.E.T.]) 
+----
+
+
+.IIASA
+----
+International Institute for Applied Systems Analysis, Laxenburg, Austria 
+
+The IIASA charter was signed in London in October 1972. “In 1966 American president Lyndon Johnson gave a rather remarkable speech — this was during the Cold War — in which he said it was time that the scientists of the United States and the Soviet Union worked together on problems other than military and space matters. He called for a liaison between the scientists of East and West.” Source: http://webarchive.iiasa.ac.at/docs/history.html[IIASA history])
+
+From the 1970s onward, networking scientists from all over the world came to the IIASA castle in Laxenburg for conferences and workshops. The proceedings of the IIASA conference http://www.iiasa.ac.at/publication/more_CP-75-007.php[”On Computer Communications Networks”], October 21 - 25 1974, is an especially interesting read.  
+----
+
+
+.IMP
+----
+An interface message processor (IMP) was needed to connect mainframe computers via telephone lines. You could compare its functionality with that of a router.  
+----
+
+
+.ISO
+----
+International Organisation for Standardisation, 1947
+
+This is the place where you go and look up country codes and other international standards.
+----
+
+
+.ITT
+----
+International Telephone & Telegraph, 1920
+
+This company was originally founded to develop phones. “Sosthenes and Hernand Behn […] set out to build the first worldwide system of interconnected telephone lines. This was a case of a business catching up with its aspirational name as the company had a small beginning as the Puerto Rico Telephone Company, but grew quickly through strategic acquisitions and the purchase of telephony patents. The result was the creation of a major international provider of telephone switching equipment and telecommunications services.” (http://itt.com/About/History/[History of ITT])
+
+Charles Herzfeld, one protagonist of our story, stepped down as director of the Advanced Research Projects Agency, USA (1965 − 1967) to move to ITT. This brought him back to Europe because ITT had acquired many companies at that time, including “Sheraton Hotels, Avis Rent-a-Car, Hartford Insurance and Continental Baking, the maker of Wonder Bread”.
+
+ITT had also bought telephone companies in Spain in the 1920s. In fact, what is now Telefónica in Spain was once ITT. In Germany, it owned Standard Elektrik Lorenz AG, which became Alcatel Lucent in 1987.
+----
+
+
+.ITU-T
+----
+International Telecommunication Union - Telecommunication Standardization Sector. Formerly known as Comité Consultatif International Télégraphique et Téléphonique (CCITT), renamed in 1992.
+----
+
+
+.MAC Project
+----
+MAC stands for Man and Computer, Machine-Aided Cognition, and Multi-Access Computer. It was started by JCR Licklider at the Advanced Research Projects Agency (ARPA) in 1963.
+
+“Project MAC brought together, for example, Marvin Minsky’s artificial intelligence work, Douglas Ross’s computer-aided design systems, Herbert Teager’s studies in languages and devices, and Martin Greenberger’s work with human-machine systems. While the program was justified to the military as a command-and-control program, Licklider’s goal was much broader. He sought ‘the possibility of a profound advance, which will be almost literally an advance in the way of thinking about computing’. In an interview with the Charles Babbage Institute, Licklider said, ‘I wanted interactive computing, I wanted time-sharing. I wanted themes like: computers are as much for communication as they are for calculation.’”  (Source: http://www.nap.edu/openbook.php?record_id=6323[Funding a Revolution, NAP])
+----
+
+
+.Marshall Plan
+----
+The Marshall Plan was named after General George C. Marshall, and was more than just a foreign aid programme. It was also an opportunity for US companies to expand their business area overseas. Furthermore, the roots of the OECD’s foundation can be traced back to 1948 and the Marshall Plan. 
+
+In the mid-1960s, Italian foreign minister Amintore Fanfani proposed a “technological Marshall Aid” scheme to push technological research within Europe. The US liked that idea.
+----
+
+
+.MIT
+----
+Massachusetts Institute of Technology, USA
+
+Founded by William Barton Rogers in 1861, it was the place to be in the early computer era. There was Project Whirlwind and SAGE at MIT’s Lincoln Lab, designed in a cooperative effort between MIT and IBM. Furthermore there were Project MAC and Multics, which were tackling man and computer issues, and timesharing. No wonder European computer scientists wanted to be at MIT in the 1960s. Louis Pouzin (FR) was there as well as Pietro Schicker (CH). Both returned home and soon after started their work on computer networking.
+
+http://mitstory.mit.edu/mit-highlights-timeline/[About MIT’s history] 
+----
+
+
+.MUA 
+----
+Million Units of Account 
+
+“The reform of the unit of account is one aspect of the strategy for constructing a European monetary union. The use of units of account and their extension to non-administrative areas are steps in this direction. As the present distortions in its application are phased out, the unit of account will cease to be a factor of dislocation and will again become a factor of integration. One fallacy must, however, be avoided: the introduction of a new unit of account has nothing to do with the introduction of a European currency. A European currency could be created only if specific economic and political requirements were met, and the unit of account does not provide the right framework for an approach to this problem.” (See: link:documents/units-of-account/[Commission of the European Communities (CEC) 87/75, The Units of Account as a Factor of Integration, in: Information, Economy and Finance])
+----
+
+
+.Multics
+----
+Multiplexed Information and Computing Service
+
+A mainframe timesharing operating system,  project started in 1965.
+
+"One of the overall design goals is to create a computing system which is capable of meeting almost all of the present and near-future requirements of a large computer utility. Such systems must run continuously and reliably 7 days a week, 24 hours a day in a way similar to telephone or power systems, and must be capable of meeting wide service demands: from multiple man-machine interaction to the sequential processing of absentee-user jobs; from the use of the system with dedicated languages and subsystems to the programming of the system itself; and from centralised bulk card, tape, and printer facilities to remotely located terminals. Such information processing and communication systems are believed to be essential for the future growth of computer use in business, in industry, in government and in scientific laboratories as well as stimulating applications which would be otherwise undone." (Source: http://www.multicians.org/fjcc1.html[F. J. Corbató, V. A. Vyssotsky, Introduction and Overview of the Multics System])
+----
+
+
+.NASA
+----
+National Aeronautics and Space Administration
+
+NASA officially came into being on 1 October 1958. “It expanded rapidly, taking over all space activities currently under way except those of strict military interest.
+
+In December 1958, the Jet Propulsion Laboratory in Pasadena came under NASA’s control. In May 1959 the key personnel in the Navy’s Project Vanguard were transferred to a new facility at Greenbelt, Maryland, later named the Goddard Space Flight Center in honour of the American rocket pioneer. And in October 1959 the NASA space programme acquired the Army team at Huntsville, Alabama, under Wernher von Braun.
+
+The centre at Huntsville was renamed the George C. Marshall Space Flight Center and von Braun was appointed its first Director. His specific task was to develop the heavy launchers for the man-in-space programme, which was also under NASA’s control.” (Source: link:documents/2000-a-history-of-the-european-space-agency.pdf[J. Krige and A.Russo, A History of the European Space Agency 1958 – 1987, 2000])
+----
+
+
+.National Champion
+----
+A term used by European politicians to talk about their main national industrial players. For example Germany has Siemens and SAP, France has Bull, the Netherlands have Philips, and Italy had Olivetti.
+----
+
+
+.NCR
+----
+National Cash Register Company, 1884
+
+American computer hardware and electronics company.
+----
+
+
+.Nixdorf
+----
+Nixdorf Computer, 1952 - 1990
+
+Founded by Heinz Nixdorf (1925 – 1986), it became the fourth-largest computer company in Europe. Nixdorf was acquired by Siemens. The acquisition commenced in 1990 and was finalised in 1992. What remains is the Heinz Nixdorf MuseumsForum, “the world’s biggest computer museum” (http://www.hnf.de/en/home.html[HNF]). 
+----
+
+
+.OECD
+----
+The Organisation for Economic Co-operation and Development 
+
+FFounded on the 14 December 1960. However its roots go back to 1948, the Marshall Plan and the Organisation for European Economic Co-operation (OEEC). Worth a look: Worth a look: http://www.oecd.org/about/history/[OECD 50th anniversary history timeline]  
+----
+
+
+.OSI
+----
+Open Systems Interconnection
+
+In 1977, the International Organisation for Standardisation (ISO) created a subcommittee in order to set the standards for interconnecting computer networks from different manufacturers.
+----
+
+
+.PDP-11
+----
+A computer made by Digital Equipment Corporation (DEC). It became very popular at universities. “UNIX Version 7 came out for the PDP-11. In the late 1970s it was already in very widespread use. There were hundreds of thousands of PDP-11 programmers in the world and tons of software.”  (Source: Andrew Tanenbaum)
+----
+
+
+.Plan Calcul
+----
+“A brutal change happened in the mid-1960s, mainly due to the acceleration of US competition. In 1964, Bull became a subsidiary of General Electric. 
+
+As a reaction, the Plan Calcul was launched by the [French] government in 1966: Most smaller computer manufacturers created in the previous period were merged into a “national champion”, the CII (Compagnie Internationale pour l’Informatique). Together with the Plan Calcul, other plans aimed at developing component and peripheral equipment industries.
+
+Meanwhile, a specialized institute, IRIA (Institut de Recherche en Informatique et en Automatique), was established outside the University. None of these efforts appeared convincingly successful. CII initially imported or manufactured American computers (SDS), then launched its home-made “IRIS” series. Yet the most innovative French computers of the time were made by new entrants, not planned in the Plan Calcul: Télémécanique (minis) and R2E-Micral (micro-computers, from 1973 on).” (Source: P.E. Mounier-Kuhn, History of Computing in France: A Brief Sketch, 1994)
+
+Tip: Pierre Mounier-Kuhn is about to publish an update on the Plan Calcul soon.
+----
+
+
+.PREST
+----
+Politique de Recherche Scientifique et Technologique 
+
+The “Scientific and technical research policy” group, known as “PREST group”, was formed in March 1965. After endless debates, which reach well back to the foundation of the European Economic Community, it was seen as a milestone towards joint efforts in the field of scientific and technical research.
+
+There is a tendency in Europe that for every time a problem occurs, new working groups need to be installed and new names found. PREST suffered the same fate. First PREST was also called the “Maréchal group” (1965 – 1967) after its chair André Maréchal. He left in 1967, and was superseded by Pierre Aigrain. The Marechal group became the “Aigrain group” (1968 − 1969). In the early 1970s, PREST was renamed Comité de la Recherche Scientifique et Technique (CREST). Thirty years later, CREST became the European Research Area Committee (ERAC). 
+
+A spin-off of PREST was the Cooperation Europeenne dans la Domaine de la Recherche Scientifique et Technique (COST), whose agenda was outlined in 1969.
+----
+
+
+.PTT
+----
+Postal, Telegraph and Telephone service
+
+National administration of postal, telephone, and telegraph services. In Europe, PTTs have mostly been state-owned monopolies. This period ended in 1998 as France Telecom was finally privatised.
+
+It has been said that PTT product lines were formerly on the market for at least 40 years. Yet computer scientists and manufacturers do not plan further ahead than five years for their invention to be of interest. So it is no wonder that postal engineers and computer scientists clashed when they first met and talked about data communication over telephone lines in the 1960s. 
+----
+
+
+.SEA
+----
+Société d’électronique et d’automatisme, 1948 - 1967
+
+In 1965, this was one of the few remaining players in the French computer industry. It was merged into Compagnie Internationale Informatique (CII) in 1967.
+----
+
+
+.Siemens
+----
+Siemens AG, 1847
+
+A German integrated technology company, active in fields such as energy, industrial production, financial services and software.
+
+“In 1847, Werner von Siemens needed only a cigar box, some imagination and a few lengths of copper wire to construct an operational pointer telegraph of simple design. His achievement solved the problem of transmitting messages reliably over longer distances. It also enabled him to lay the foundation stone for the Siemens & Halske Telegraph Construction Company.” (Source: http://www.siemens.com/history/en/innovations/information_and_communications.htm[Siemens history-site])
+----
+
+
+.Silicon Valley
+----
+If you want to be part of the computing community in the US, some say that this is the place to be. Since the 1950s, more and more IT companies have established offices in the San Francisco Bay area, around the campus of Stanford University.
+
+"From the late 1960s, venture capitalists backed so many high-tech startups near Stanford University that they created a completely new industry for financing the entry and initial growth of technology firms. These startups lured “talent” from established companies by offering them compensation in the form of stock options, typically as a partial substitute for salaries, with the potential payoff being the high market value of the stock after an initial public offering or the private sale of the young firm to an established corporation. As these young companies grew, annual grants of stock options to a broad base of potentially highly mobile people became an important tool for retaining existing employees as well as for attracting new ones. The subsequent growth of these companies occurred, moreover, not only by investing additional capital in new facilities and hiring more people, but also by acquiring even newer high-tech companies, almost invariably using stock rather than cash as the acquisition currency." (Source: http://www.thebhc.org/publications/BEHonline/2005/lazonick.pdf[William Lazonick, Evolution of the New Economy Business Model, 2006])
+----
+
+
+.SITA
+----
+Société Internationale de Télécommunications Aéronautiques, 1949
+
+SITA’s first computer message switching computer was installed in 1966, and the first High Level Network was implemented in 1969. Shortly afterwards, 175 international airlines formed part of the network, and messages with an average of 200 characters per message went over lines to at least two other switching centres in Amsterdam, Brussels, Frankfurt, Hong Kong, London, Madrid, Paris, Rome and New York.
+
+Communication with travel agents needed even fewer characters. “A typical Class A inquiry is 18 characters long and the response from the airline’s central reservations computer is 100 characters”, writes Phil Hirsch, Communications Editor in the US magazine Datamation, in 1974.
+
+The network was also used for administrative matters. For communicating about lost baggage, passenger reservation and flight servicing information. 
+
+“Purists will argue SITA isn’t a true packet system – there are, admittedly, some differences between it and the ARPA network – and that the data it carries really isn’t typical of what businessmen send back and forth. But nevertheless, there are many similarities between SITA and a commercial packet-switched network – enough to give potential users of technology some useful insights.” (Source: Phil Hirsch, SITA: Rating a packet-switched network, Datamation, March 1974)
+----
+
+
+.SMS
+----
+Short Messaging Service 
+
+First, this was understood as a way of informing post and telephone technicians. Later, the idea popped up to inform users that they had a message in their voice mailbox. It was Neil Papworth, a 22-year-old test engineer in the UK, who worked out that SMS could be used for sending short messages for free. However, soon new business plans appeared on PTT drawing boards, some of them even charging their clients a fee per character. Today the game has started all over again as web SMS services are free.
+
+“In 1991, I moved to Sema Group Telecoms, and it's with them that on December 3rd, 1992, I sent the world's first ever text message.  I was part of the team developing a Short Message Service Centre (SMSC) for our customer, Vodafone UK, and was chosen to go to their Newbury site to install, integrate and test the software and get it all working.  Initially the idea was for them to use it essentially as a paging service - no-one had any idea how gigantic the texting phenomenon would become.“ (Source: http://neilpapworth.com/[Neil Papworth])
+----
+
+
+.SPUTNIK
+----
+“On 4 October 1957, Moscow radio announced that the Soviet Union had successfully launched Sputnik 1, the first-in-the-world artificial satellite of the Earth. It was an aluminium sphere of 58 cm diameter and weighing about 84 kg that circled the Earth once every 96.3 minutes on an elliptical orbit with a perigee of 228 km an apogee of 947 km. Its two radio emitters sent its familiar beep-beep sound into homes all over the world for 21 days. The scientific instruments on board the satellite carried out the first measurements of atmospheric density and the first investigations into the transmission of electromagnetic waves through the ionosphere.
+
+The reaction, at least in certain American circles, bordered on the hysterical. A wave of recriminations and self-criticism swept through the country, stimulated by the media. A myriad of explanations were put forward for what Life magazine called ‘defeat for the United States’: inter-service rivalry between the various sections of the military leading to parallel rocket programmes, under-funding of basic research and development, a Philistine attitude towards egghead scientists, an educational system that was not turning out enough scientists and engineers, and a president who was more interested in golf than in guiding the nation.” (Source: link:documents/2000-a-history-of-the-european-space-agency.pdf[J. Krige and A.Russo, A History of the European Space Agency 1958 – 1987, 2000])
+----
+
+
+.SWIFT
+----
+Society for Worldwide Interbank Financial Telecommunication, 1972
+
+SWIFT “started its mission to create a shared worldwide data processing and communications link and a common language for international financial transactions.” (Source: http://www.swift.com/about_swift/company_information/swift_history?rdct=t&lang=en[SWIFT-history])
+----
+
+
+.System 360
+----
+System 360 shocked the whole computer market when it was only announced by IBM, in 1964. It was IBM’s most risky endeavour. The whole project had a budget of five billion dollars, Christian Lösch tells us. He worked at IBM’s European headquarters in Paris. 
+----
+
+
+.Test Ban Treaty
+----
+The Partial Test Ban Treaty was signed in August 1963. It banned nuclear testing in outer space, the atmosphere and underwater, but not underground. An agreement on the Comprehensive Nuclear Test Ban Treaty was reached in 1996.
+
+“Over 2000 nuclear tests were carried out between 1945 and 1996, when the CTBT opened for signature: by the United States (1000plus), the Soviet Union (700plus), France (200plus), the United Kingdom and China (45 each). Three countries have broken the de facto moratorium and tested nuclear weapons since 1996: India and Pakistan in 1998, and the Democratic People’s Republic of Korea in 2006 and 2009.“ (Source: http://www.ctbto.org/specials/who-we-are/[Comprehensive Nuclear Test Ban Treaty])
+----
+
+
+.TIP
+----
+Terminal Interface (Message) Processor
+
+The Terminal Interface Message Processor (TIP), manufactured by US company Bolt, Beranek and Newman, was used to connect terminal devices to the ARPA Network. When the first TIP was shipped over to London to connect Europe with the ARPANET in July 1973, a tax bill was promptly issued. “They told Peter Kirstein ‘You owe us £5000’”, Steve Crocker, a noted US Internet pioneer said at the Jon Postel award ceremony in Vienna 2003.
+
+For a technical description, see http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA002481[The BBN Tip], Hardware Manual, BBN Report No.2184, submitted by Larry Roberts.
+----
+
+
+.UCL, University College of London
+----
+From here, Peter Kirstein and his team set up the first European link to the ARPANET, in 1973.
+----
+
