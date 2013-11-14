@@ -30,10 +30,8 @@ In May 2013, he suddenly discovered that the future lies in a digitalised world,
 
 audio::roesler[]
 
-["aside-right"]
-----
-figure::images/1983-telecom-policy.story-aside-right.jpg[caption="Many papers have been written to underline investment in technology.", infobox="infobox-gaps"]
-----
+[aside-right]
+figure:images/1983-telecom-policy.story-aside-right.jpg[caption="Many papers have been written to underline investment in technology.", infobox="infobox-gaps"]
 
 [[infobox-gaps]]
 ["infobox", header="A lasting case of déjà vu.", image="images/1983-telecom-policy.infobox.jpg"]
@@ -49,8 +47,8 @@ It is not enough to  pick an old argument and hope that this time it will have a
 *2010, Digital Agenda, 17 May*: “Half of European productivity growth over the past 15 years has been driven by information and communications technologies. “(*EU-27*) (Commission Report, Press Release) 
 
 *2013, Davos, WEF Report*: “What has become increasingly clear… is the role that information and communications technologies (ICTs), specifically digitisation, play in the potential development and maintenance of absolute advantage.” (*EU-27*)(WEF Global IITR Report 2013)
-
 ----
+
 [glossary-ref]
 *glossary:EEC[]:* European Economic Community
 
@@ -63,9 +61,7 @@ In the 1960s, that sort of comparison was also criticised. For example, person:R
 “Most attempts to overcome these difficulties have relied upon a putative connection between technology and economic growth. The argument has been that if this connection is accepted, then under Article 235 of the Treaty of Rome, the Commission may extend its powers to scientific and technological matters in pursuit of the objectives of the Treaty, particularly the objectives of economic development and cooperation laid down in Articles 2 and 4.”
 
 [aside-right]
-----
 figure:images/the-pill.story-aside-right.jpg[caption="The dream of Margaret Sanger, Katherine McCormick and many other women came true when “the pill” for birth-control was brought onto market in 1960."]
-----
 
 At least today, 50 years later, with cyber-war and information control in the spotlight, one should add to the equation that there is always a price tag attached to technological achievements and to technological dysfunction. The latter often means additional cost.
 
@@ -91,14 +87,14 @@ audio::herzfeld-arpa-no-enemies[]
 
 [aside-left]
 ----
-figure::images/logo-euratom.story-aside-left.jpg[caption="<strong><a href=\"glossary/index.html#EURATOM\">EUROATOM</a>:</strong> Treaty signed in 1957 (Source: <a href=\"http://eur-lex.europa.eu/en/treaties/dat/12006A/12006A.htm\">European Union Law</a>)", href="http://eur-lex.europa.eu/en/treaties/dat/12006A/12006A.htm", captionrole="glossary-ref", indicator="DOCUMENT"]
+figure::images/logo-euratom.story-aside-left.jpg[caption='<strong><a href="glossary/index.html#EURATOM\">EUROATOM</a>:</strong> Treaty signed in 1957 (Source: <a href="http://eur-lex.europa.eu/en/treaties/dat/12006A/12006A.htm">European Union Law</a>)', href="http://eur-lex.europa.eu/en/treaties/dat/12006A/12006A.htm", captionrole="glossary-ref", indicator="HTML"]
 ----
 
 European nations heard the news about the space race as well, but were still rebuilding Europe. Early on, the only case of fostering scientific research co-operation was, like the US, driven by particle physics: the glossary:CERN[] laboratory, set up near Geneva 1954, with the financial support of twelve European countries. Then there was EURATOM, “to permit the advancement of the cause of peace.”
 
 [aside-right]
 ----
-figure::images/1954-fete-narcisses.story-aside-right.jpg[caption="Cortège de la Fête des Narcisse en 1954, avec la première retransmission télévisée en Eurovision (Source: <a href=\"http://www.narcisses.ch/narcisse_fete.php\">narcisse fete</a>)."]
+figure::images/1954-fete-narcisses.story-aside-right.jpg[caption='Cortège de la Fête des Narcisse en 1954, avec la première retransmission télévisée en Eurovision (Source: <a href="http://www.narcisses.ch/narcisse_fete.php">narcisse fete</a>).']
 ----
 
 [glossary-ref]
@@ -111,7 +107,7 @@ One further collaborative European action was agreed upon, which also has its of
 
 [aside-right]
 ----
-figure::images/1954-cern.story-aside-right.jpg[caption="CERN breaking new ground. On 17 May 1954 the first shovelful of earth was turned over on the site in Meyrin, Switzerland, under the eyes of Geneva officials and CERN staff (<a href=\"http://timeline.web.cern.ch/timelines/the-history-of-cern/overlay#1954-03-17%2013:45:00\">CERN</a>)."]
+figure::images/1954-cern.story-aside-right.jpg[caption='CERN breaking new ground. On 17 May 1954 the first shovelful of earth was turned over on the site in Meyrin, Switzerland, under the eyes of Geneva officials and CERN staff (<a href="http://timeline.web.cern.ch/timelines/the-history-of-cern/overlay#1954-03-17%2013:45:00">CERN</a>).']
 ----
 
 Both collaborations still exist today. Nobody denies that the science network won hands down over the media network. The only vestige now remaining of the public initiative for media unification is the annual Eurovision Song Contest while CERN has  “one of the great engineering milestones of mankind”, the http://www.computerworlduk.com/news/infrastructure/10948/collider-test-called-a-great-milestone-of-mankind/[Hadron Collider]
@@ -129,7 +125,7 @@ However,  the main focus of the EEC 6 was the nuclear energy debate, with France
 
 [aside-left]
 ----
-figure::images/1957-eec-map.story-aside-left.jpg[caption="<strong><a href=\"glossary/index.html#EEC\">EEC</a>:</strong> European Economic Community members, 1957-1973", captionrole="glossary-ref"]
+figure::images/1957-eec-map.story-aside-left.jpg[caption='<strong><a href="glossary/index.html#EEC">EEC</a>:</strong> European Economic Community members, 1957-1973', captionrole="glossary-ref"]
 ---- 
 
 It is worth recalling that in the post-war period West Germany faced a difficult challenge: it needed the glossary:EEC[] in order to be allowed to push its own high technology research in fields such as nuclear energy, the chemical industry and aerospace. By joining western European collaborative programmes it could do so in the name of peace. 
@@ -141,10 +137,8 @@ It did not take long to persuade policy makers to combine forces in the field of
 
 France, on the other hand, was involved in nuclear energy research, but to make progress it required a supercomputer which could deal with the amount of data that particle physicists produced in their tests. The company of choice at the time was IBM, but the French order was put on hold by the United States government.
 
-["aside-right"]
-----
-figure::images/scan-euro-market.story-aside-right.png[caption="European computer market in numbers, 1967", infobox="infobox-calculatrices"]
-----
+[aside-right]
+figure:images/scan-euro-market.story-aside-right.png[caption="European computer market in numbers, 1967", infobox="infobox-calculatrices"]
 
 [glossary-ref]
 The *glossary:Test_Ban_Treaty[Test Ban Treaty]* was signed in August 1963.
