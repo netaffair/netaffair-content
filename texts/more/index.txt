@@ -26,8 +26,8 @@ http://www.iscc.cnrs.fr/spip.php?article1135
 Andrew Russell, OSI: The Internet That Wasn’t, 29 July 2013, IEEE Spectrum. +
 http://spectrum.ieee.org/computing/networks/osi-the-internet-that-wasnt
 
-Coming soon: +
-Andrew Russell, Open Standards and the Digital Age: History, Ideology, and Networks, Cambridge University Press, early 2014.
+Andrew Russell, Open Standards and the Digital Age: History, Ideology, and Networks, Cambridge University Press, 2014. +
+http://www.amazon.com/dp/1107039193/?tag=newbooinhis-20
 
 
 === USA
@@ -75,8 +75,8 @@ http://www.cairn.info/revue-entreprises-et-histoire-2002-1.htm
 
 === USA
 
-Coming soon: + 
-Charles Herzfeld, A Life at full Speed. A memoir. 
+Charles Herzfeld, A Life at full Speed. A memoir. +
+http://www.amazon.com/Life-Full-Speed-Struggle-Discovery/dp/0989855635/ref=
 
 
 Barber Associates, Richard J. Barber, The Advanced Research Projects Agency 1958-1974, report prepared for the Advanced Projects Research Agency under contract MDA 903-74-C-0096. Defense Technical Information Center, Springfield, Va., December 1975, NIST, ADA154363. +
