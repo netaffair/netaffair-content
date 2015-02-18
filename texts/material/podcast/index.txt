@@ -1,0 +1,66 @@
+Overview
+========
+:kind: podcast-overview
+
+== The Internet’s Nearly Forgotten History
+
+Covering the early years: 1960 – 1980
+
+audio::podcast-euronetz-01[]
+
+The 1960s: How things evolved and what the differences were between the USA and Europe regarding politics and the design of networks.
+
+Also includes insider accounts from the early adopters at CERN, provided by:
+
+- person:Charles_Herzfeld[Charles Herzfeld] (ARPA director, USA)
+- Maurice Allègre (Government, FR)
+- Louis Pouzin (Computer Scientist, FR)
+- Ben Segal (CERN, CH/USA)
+
+audio::podcast-euronetz-02[]
+
+The 1970s: Speeding up and slowing down.
+
+This is the story of EIN, the European Informatics Network (glossary:COST_Project_11[COST Project 11]), the treaty for which was signed at the UN in Geneva on November 23rd, 1971.
+
+It can be seen as the first Pan-European experimental test-bed for a “concourse of computers” research infrastructure. EIN was shut down in 1978 and, as the COST evaluation report suggests, killed off by the European PTTs, i.e. the then-all-powerful national postal, telegraph and telephone monopolies.
+
+The story is told by:
+
+- Maurice Allègre (Government, FR)
+- Louis Pouzin (Computer Scientist, FR)
+- Tomaz Kalin (Tech. Management, SI)
+- Pietro Schicker (Computer Scientist, CH)
+
+audio::podcast-euronetz-03[]
+
+The Internet: A global bottom-up approach.
+
+Personal and early experiences with international inter-networking protocols and test-beds as well as the difficulties of setting up data networks between the West and the East in the late 1970s and early 1980s, during the period of the Cold War.
+
+It's no wonder that this story includes spies and agents, but it also advocates a powerful idea: connectivity.
+
+- Ben Segal (CERN, CH/USA)
+- Louis Pouzin (Computer Scientist, FR)
+- Wolfgang Singer (IBM, AT)
+- Bob Kahn (Computer Scientist, ARPA, USA)
+- Daniel Karrenberg (Computer Scientist, NL, DE)
+- Peter Paul Sint (Academy of Sciences, AT)
+- Peter Rastl (NREN, AT)
+
+audio::podcast-euronetz-04[]
+
+The 1980s: A time driven by the need for the standardisation of networks. Some myths are identified and some possible explanations offered as to why this European-driven endeavour failed. Yet, a lot remains to be told. Thanks to:
+
+- Larry Landweber (NSFnet, USA)
+- Ben Segal (CERN, CH/USA)
+- Louis Pouzin (Computer Scientist, FR)
+- Carl Cargill (Standardization, USA)
+- Daniel Karrenberg (Computer Scientist, RIPE, NL, DE)
+- Hermann Steinringer (NREN, AT)
+
+== In Memoriam Hubert Zimmermann, 1941 - 2012
+
+audio::podcast-hubert-zimmermann[]
+
+Hubert Zimmermann tells how he came to computer networking in 1966; why he didn't leave Paris in 1972; talks about CYCLADES, his time as chair of the glossary:OSI[] architecture committee at the International Organization for Standardization (glossary:ISO[]), and why stronger support of the TCP/IP community at ISO might have made a difference in the late 1970s/early 1980s.

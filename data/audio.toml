@@ -29,6 +29,13 @@ roesler-sequence = [
     "roesler"
 ]
 
+podcast = [
+    "podcast-euronetz-01",
+    "podcast-euronetz-02",
+    "podcast-euronetz-03",
+    "podcast-euronetz-04"
+]
+
 
 # Audio plays
 
@@ -38,6 +45,36 @@ clip-title = "Internet history fast-forward"
 info = "Various interviews, done between 2003 - 2012"
 date-range = ["2013", "2012"]
 length = "6:04"
+
+
+# Podcast
+
+[audio.podcast-euronetz-01.short]
+title = "The Internet's Nearly Forgotten History"
+clip-title = "Part One (in German)"
+length = "22:05"
+
+[audio.podcast-euronetz-02.short]
+title = "The Internet's Nearly Forgotten History"
+clip-title = "Part Two (in German)"
+length = "22:21"
+
+[audio.podcast-euronetz-03.short]
+title = "The Internet's Nearly Forgotten History"
+clip-title = "Part Three (in German)"
+length = "22:04"
+
+[audio.podcast-euronetz-04.short]
+title = "The Internet's Nearly Forgotten History"
+clip-title = "Part Four (in German)"
+length = "22:21"
+
+[audio.podcast-hubert-zimmermann.short]
+title = "In Memoriam Hubert Zimmermann"
+clip-title = "\"What else do you want to know?\""
+info = "Hubert Zimmermann, 1941-2012. Interview in Paris, July 14th, 2005. Further infos: <a href=\"http://motz.antville.org/stories/2143475/\">motz.antville.org</a>."
+date = "2005-07-14"
+length = "10:57"
 
 
 # Rösler
