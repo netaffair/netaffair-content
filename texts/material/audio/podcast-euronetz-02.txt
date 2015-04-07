@@ -1,0 +1,22 @@
+Podcast
+=======
+:kind: transcript
+
+== The Internet’s Nearly Forgotten History
+
+sequence-nav::podcast-euronetz-02[]
+
+audio::podcast-euronetz-02[]
+
+The 1970s: Speeding up and slowing down.
+
+This is the story of EIN, the European Informatics Network (glossary:COST_Project_11[COST Project 11]), the treaty for which was signed at the UN in Geneva on November 23rd, 1971.
+
+It can be seen as the first Pan-European experimental test-bed for a “concourse of computers” research infrastructure. EIN was shut down in 1978 and, as the COST evaluation report suggests, killed off by the European PTTs, i.e. the then-all-powerful national postal, telegraph and telephone monopolies.
+
+The story is told by:
+
+- Maurice Allègre (Government, FR)
+- Louis Pouzin (Computer Scientist, FR)
+- Tomaz Kalin (Tech. Management, SI)
+- Pietro Schicker (Computer Scientist, CH)

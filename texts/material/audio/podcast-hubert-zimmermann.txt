@@ -1,0 +1,11 @@
+Podcast
+=======
+:kind: transcript
+
+== The Internet’s Nearly Forgotten History
+
+sequence-nav::podcast-hubert-zimmermann[]
+
+audio::podcast-hubert-zimmermann[]
+
+Hubert Zimmermann tells how he came to computer networking in 1966; why he didn't leave Paris in 1972; talks about CYCLADES, his time as chair of the glossary:OSI[] architecture committee at the International Organization for Standardization (glossary:ISO[]), and why stronger support of the TCP/IP community at ISO might have made a difference in the late 1970s/early 1980s.

@@ -1,0 +1,23 @@
+Podcast
+=======
+:kind: transcript
+
+== The Internet’s Nearly Forgotten History
+
+sequence-nav::podcast-euronetz-03[]
+
+audio::podcast-euronetz-03[]
+
+The Internet: A global bottom-up approach.
+
+Personal and early experiences with international inter-networking protocols and test-beds as well as the difficulties of setting up data networks between the West and the East in the late 1970s and early 1980s, during the period of the Cold War.
+
+It's no wonder that this story includes spies and agents, but it also advocates a powerful idea: connectivity.
+
+- Ben Segal (CERN, CH/USA)
+- Louis Pouzin (Computer Scientist, FR)
+- Wolfgang Singer (IBM, AT)
+- Bob Kahn (Computer Scientist, ARPA, USA)
+- Daniel Karrenberg (Computer Scientist, NL, DE)
+- Peter Paul Sint (Academy of Sciences, AT)
+- Peter Rastl (NREN, AT)

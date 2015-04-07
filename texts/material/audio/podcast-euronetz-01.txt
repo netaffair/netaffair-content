@@ -1,0 +1,18 @@
+Podcast
+=======
+:kind: transcript
+
+== The Internet’s Nearly Forgotten History
+
+sequence-nav::podcast-euronetz-01[]
+
+audio::podcast-euronetz-01[]
+
+The 1960s: How things evolved and what the differences were between the USA and Europe regarding politics and the design of networks.
+
+Also includes insider accounts from the early adopters at CERN, provided by:
+
+- person:Charles_Herzfeld[Charles Herzfeld] (ARPA director, USA)
+- Maurice Allègre (Government, FR)
+- Louis Pouzin (Computer Scientist, FR)
+- Ben Segal (CERN, CH/USA)

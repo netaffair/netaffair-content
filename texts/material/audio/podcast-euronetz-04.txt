@@ -1,0 +1,18 @@
+Podcast
+=======
+:kind: transcript
+
+== The Internet’s Nearly Forgotten History
+
+sequence-nav::podcast-euronetz-04[]
+
+audio::podcast-euronetz-04[]
+
+The 1980s: A time driven by the need for the standardisation of networks. Some myths are identified and some possible explanations offered as to why this European-driven endeavour failed. Yet, a lot remains to be told. Thanks to:
+
+- Larry Landweber (NSFnet, USA)
+- Ben Segal (CERN, CH/USA)
+- Louis Pouzin (Computer Scientist, FR)
+- Carl Cargill (Standardization, USA)
+- Daniel Karrenberg (Computer Scientist, RIPE, NL, DE)
+- Hermann Steinringer (NREN, AT)
