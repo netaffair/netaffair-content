@@ -408,9 +408,9 @@ nick = [ "Lick", "JCR" ]
 countries = [ "USA" ]
 fields = [ "S", "M" ]
 
-[people.Christian_Lösch]
+[people.Christian_Loesch]
 first = "Christian"
-last = "Lösch"
+last = "Loesch"
 countries = [ "AT", "EU" ]
 fields = [ "I", "M" ]
 
