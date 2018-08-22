@@ -1,16 +1,11 @@
 Discuss
+For sure we would like to hear from you. If you want to discuss a specific issue about the developments of networking in Europe, drop us a mail or follow us on twitter. Stay tuned, as we are about to add new stories here soon. 
+
+Maybe it is also time to add, that we do not track, use cookies or collect any sort of personal information while you are here on our website aside apache logs. 
+
+If you contact us per e-mail we take it for granted that you are interested to hear from us, and are looking forward to an interesting discussion. 
 =======
 :kind: discuss
 
-++++
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'netaffair'; // required: replace example with your forum shortname
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 ++++
