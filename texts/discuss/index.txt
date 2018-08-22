@@ -6,6 +6,3 @@ Maybe it is also time to add, that we do not track, use cookies or collect any s
 If you contact us per e-mail we take it for granted that you are interested to hear from us, and are looking forward to an interesting discussion. 
 =======
 :kind: discuss
-
-
-++++
