@@ -481,7 +481,7 @@ countries = [ "BE", "EU" ]
 fields = [ "S" ] 
 
 [people.Jon_Postel]
-info = "John Postel, USA (S)"
+info = "Jon Postel, USA (S)"
 
 [people.Louis_Pouzin]
 first = "Louis"
