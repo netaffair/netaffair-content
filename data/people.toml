@@ -480,7 +480,7 @@ last = "Otlet"
 countries = [ "BE", "EU" ]
 fields = [ "S" ] 
 
-[people.John_Postel]
+[people.Jon_Postel]
 info = "John Postel, USA (S)"
 
 [people.Louis_Pouzin]
