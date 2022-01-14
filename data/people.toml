@@ -206,7 +206,6 @@ last = "Gabler"
 countries = [ "DE", "EU" ]
 fields = [ "T" ]
 
-
 [people.Valery_Giscard_d'Estaing]
 first = "Valéry"
 last = "Giscard d'Estaing"
@@ -323,7 +322,6 @@ first = "Theodor"
 last = "Irmer"
 countries = [ "DE", "EU" ]
 fields = [ "T", "N" ]
-
 
 [people.Kai_Jakobs]
 first = "Kai"
@@ -579,7 +577,6 @@ countries = [ "FR", "EU" ]
 fields = [ "O", "P" ]
 description = "Journalist"
 
-
 [people.Peter_Paul_Sint]
 first = "Peter Paul"
 last = "Sint"
@@ -612,7 +609,6 @@ last = "Steinringer"
 countries = [ "AT", "EU" ]
 fields = [ "T" ]
 
-
 [people.Andrew_Tanenbaum]
 first = "Andrew"
 last = "Tanenbaum"
@@ -630,7 +626,6 @@ first = "Fouad A."
 last = "Tobagi"
 countries = [ "USA" ]
 fields = [ "S" ]
-
 
 [people.Klaus_Ullmann]
 first = "Klaus"
@@ -705,4 +700,3 @@ first = "Werner"
 last = "Zorn"
 countries = [ "DE", "EU" ]
 fields = [ "S" ]
-
