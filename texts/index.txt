@@ -3,7 +3,7 @@ European Networking Paradigms
 :author: Mariann Unterluggauer
 :kind: front
 
-In Europe, experimentally driven research for defining the Internet’s architecture began nearly 50 years ago. Yet few people realise that the original voices from these early days of inter-networking are still around. NetAffair wants to ensure that their personal knowledge, experiences and the insights of European research efforts do not just evaporate, but are heard, discussed and used to construct new principles. Especially, as the scientific and political contest unfolds today between different regions of the world, it bears clear resemblances to a not-so-distant European past.
+In Europe, experimentally driven research for defining the Internet’s architecture began around 1970. Yet few people realise that the original voices from these early days of inter-networking are still around. NetAffair wants to ensure that their personal knowledge, experiences and the insights of European research efforts do not just evaporate, but are heard, discussed and used to construct new principles. Especially, as the scientific and political contest unfolds today between different regions of the world, it bears clear resemblances to a not-so-distant European past.
 
 ["column", role="left"]
 ====
